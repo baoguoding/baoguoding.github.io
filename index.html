@@ -1,18 +1,37 @@
 ---
 layout: default
-title: 我的Blog
 ---
-
-<h2>{{ page.title }}</h2>
-
-<p>最新文章</p>
-<ul>
-　　{% for post in site.posts %}
-　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-　　{% endfor %}
-</ul>
-
-
-<a href="1ch_1.html">1ch_1.html</a>
-<br/>
-<a href="1ch_2.html">1ch_2.html</a>
+<section class="lotus-logo fn-clear">
+    <hgroup class="violet-site">
+        <h1><a href="{{ site.url | append: site.baseurl }}" >{{ site.title }}</a></h1>
+        <h2>{{ site.subTitle }}</h2>
+    </hgroup><!-- //violet-site -->
+</section>
+{% for rpost in site.posts limit:4 %}
+<article class="lotus-article">
+    <h3><a href="{{ site.url | append: site.baseurl }}{{ rpost.url }}" title="{{ rpost.title }}" rel="bookmark">{{ rpost.title }}</a></h3>
+    <p itemprop="description">{{ rpost.content }}</p>
+</article>
+{% endfor %}
+<section class="lotus-double fn-clear">
+    <article class="article article-first">
+    <h3>近期文章</h3>
+        <ul>
+            {% for npost in site.posts limit:4 offset:4 %}
+            <li><a href="{{ site.url | append: site.baseurl }}{{ npost.url }}" pubdate="{{ npost.date | date_to_utc | date: '%Y-%m-%d' }}" title="{{ npost.title }}" rel="bookmark">{{ npost.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </article>
+    <article class="article article-last">
+    <h3>相关页面</h3>
+    <ul>
+        {% for page in site.html_pages %}
+        {% if page.url != '/'%}
+        <li>
+            <a href="{{ site.url | append: site.baseurl }}{{ page.url }}" rel="bookmark" title="{{page.title}}">{{ page.title }}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+    </article>
+</section>

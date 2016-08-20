@@ -1,0 +1,143 @@
+# Where things are
+source: .
+destination: ./_site
+plugins_dir: ./_plugins
+layouts_dir: ./_layouts
+data_dir: ./_data
+includes_dir: ./_includes
+
+# this config will lead github pages blog(jekyll 3.0.3) generate no rendered posts
+# so comment out this until github used jekyll updated
+# collections: null
+
+# Handling Reading
+safe: false
+include: [".htaccess"]
+exclude: []
+keep_files: [".git", ".svn"]
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future: true
+unpublished: false
+
+# Plugins
+whitelist: []
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Serving
+detach: false
+port: 4000
+host: 127.0.0.1
+baseurl: "" # does not include hostname
+
+# Outputting
+permalink: /:year/:month/:title.html
+# paginate: 8
+paginate_path: /page:num
+timezone: Asia/Shanghai
+
+feed:
+  path: feed.xml
+
+quiet: false
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      comments: true
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: pages   # limit to posts
+    values:
+      comments: false
+
+# Markdown Processors
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers: inline
+    coderay_line_number_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: style
+
+#iLotus configs
+iLotus:
+  columns: 1
+  begin: 2011
+
+  # comments provider
+  comments:
+    provider: duoshuo
+    duoshuo:
+      short_name: isayme
+
+  archives_path: /archives.html
+  contact_path: /contact.html
+  links_path: /links.html
+  tags_path: /tags.html
+
+  #菜单配置
+  navs:
+    - text: 首页
+      url: /
+      icon: fa fa-home
+      class: home
+    - text: 文章归档
+      url: /archives.html
+      icon: fa fa-reorder
+      class: none
+    - text: 文章标签
+      url: /tags.html
+      icon: fa fa-tags
+      class: none
+    - text: 关于我
+      url: /contact.html
+      icon: fa fa-user
+      class: none
+    - text: 博客源代码
+      url: https://github.com/Treri/treri.github.io
+      icon: fa fa-github-square
+      class: none
+
+#站点基础配置
+title: 自说Me话
+subTitle: I Say Me | 我说我自己 | 我说世界
+description: Treri's Individual Blog. 自说Me话,一个前端开发新手的网络记录,同喜欢网络,Linux,前端开发,爱折腾的人共同分享,记录折腾心得还有学习过程.
+keywords: Treri,Linux,Web,前端开发,自说Me话,ISayme,Internet
+url: http://isay.me
+
+author:
+  name : Treri
+  email: treri.liu@gmail.com
+  github: Treri
+  twitter: Treri_liu
+  douban: lwent
+  QQ: 83692901
+  weibo: leftupme
