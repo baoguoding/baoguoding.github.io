@@ -23,7 +23,7 @@ $ git commit -a
 Commit previously staged changes
 $ git commit
 Change the last commit
-Don¡®t amend published commits!
+DonÂ¡Â®t amend published commits!
 $ git commit --amend
 COMMIT HISTORY
 Show all commits, starting with newest
@@ -55,7 +55,7 @@ $ git remote show <remote>
 Add new remote repository, named <remote>
 $ git remote add <shortname> <url>
 Download all changes from <remote>,
-but don¡®t integrate into HEAD
+but donÂ¡Â®t integrate into HEAD
 $ git fetch <remote>
 Download changes and directly
 merge/integrate into HEAD
@@ -70,7 +70,7 @@ MERGE & REBASE
 Merge <branch> into your current HEAD
 $ git merge <branch>
 Rebase your current HEAD onto <branch>
-Don¡®t rebase published commits!
+DonÂ¡Â®t rebase published commits!
 $ git rebase <branch>
 Abort a rebase
 $ git rebase --abort
@@ -93,10 +93,10 @@ Revert a commit (by producing a new commit
 with contrary changes)
 $ git revert <commit>
 Reset your HEAD pointer to a previous commit
-¡­and discard all changes since then
+and discard all changes since then
 $ git reset --hard <commit>
-¡­and preserve all changes as unstaged
+and preserve all changes as unstaged
 changes
 $ git reset <commit>
-¡­and preserve uncommitted local changes
+and preserve uncommitted local changes
 $ git reset --keep <commit>
