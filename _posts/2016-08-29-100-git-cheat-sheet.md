@@ -36,6 +36,7 @@ Change the last commit
 Don‘t amend published commits!
 
         $ git commit --amend
+        
 # COMMIT HISTORY
 Show all commits, starting with newest
 
@@ -46,6 +47,7 @@ Show changes over time for a specific file
 Who changed what and when in <file>
 
         $ git blame <file>
+        
 # BRANCHES & TAGS
 List all existing branches
 
@@ -67,6 +69,7 @@ Delete a local branch
 Mark the current commit with a tag
 
         $ git tag <tag-name>
+        
 # UPDATE & PUBLISH
 List all currently configured remotes
 
@@ -94,6 +97,7 @@ Delete a branch on the remote
 Publish your tag s
 
         $ git push --tags
+        
 # MERGE & REBASE
 Merge <branch> into your current HEAD
 
@@ -117,6 +121,7 @@ and (after resolving) mark file as resolved
 
         $ git add <resolved-file>
         $ git rm <resolved-file> 
+        
 # UNDO
 Discard all local changes in your working
 directory
