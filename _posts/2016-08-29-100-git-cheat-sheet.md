@@ -153,8 +153,7 @@ and (after resolving) mark file as resolved
         $ git rm <resolved-file> 
         
 # UNDO
-Discard all local changes in your working
-directory
+Discard all local changes in your working directory
 
         $ git reset --hard HEAD
         
@@ -162,12 +161,12 @@ Discard local changes in a specific file
 
         $ git checkout HEAD <file>
         
-Revert a commit (by producing a new commit
-with contrary changes)
+Revert a commit (by producing a new commit with contrary changes)
 
         $ git revert <commit>
         
 Reset your HEAD pointer to a previous commit
+
 ...and discard all changes since then
 
         $ git reset --hard <commit>
