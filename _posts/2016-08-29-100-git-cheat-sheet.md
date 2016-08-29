@@ -41,7 +41,7 @@ Commit previously staged changes
         
 Change the last commit
 
-*Don't amend published commits\!*
+_Don't amend published commits\!_
 
         $ git commit --amend
         
