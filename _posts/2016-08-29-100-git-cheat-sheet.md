@@ -11,11 +11,11 @@ Clone an existing repository
   
 Create a new local repository
 
-$ git init
+<code>$ git init</code>
   
 # LOCAL CHANGES
 Changed files in your working directory
-$ git status
+<code>$ git status</code>
 Changes to tracked files
 $ git diff
 Add all current changes to the next commit
