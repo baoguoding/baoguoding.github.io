@@ -6,9 +6,11 @@ tags: [WordPress]
 ---
 # CREATE
 Clone an existing repository
-$ git clone ssh://user@domain.com/repo.git
+  $ git clone ssh://user@domain.com/repo.git
+  
 Create a new local repository
-$ git init
+  $ git init
+  
 # LOCAL CHANGES
 Changed files in your working directory
 $ git status
