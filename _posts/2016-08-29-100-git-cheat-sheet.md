@@ -4,12 +4,12 @@ title: GIT CHEAT SHEET
 pid: 100
 tags: [WordPress]
 ---
-CREATE
+# CREATE
 Clone an existing repository
 $ git clone ssh://user@domain.com/repo.git
 Create a new local repository
 $ git init
-LOCAL CHANGES
+# LOCAL CHANGES
 Changed files in your working directory
 $ git status
 Changes to tracked files
@@ -23,17 +23,16 @@ $ git commit -a
 Commit previously staged changes
 $ git commit
 Change the last commit
-Don¡®t amend published commits!
+Don‘t amend published commits!
 $ git commit --amend
-COMMIT HISTORY
+# COMMIT HISTORY
 Show all commits, starting with newest
 $ git log
 Show changes over time for a specific file
 $ git log -p <file>
-
 Who changed what and when in <file>
 $ git blame <file>
-BRANCHES & TAGS
+# BRANCHES & TAGS
 List all existing branches
 $ git branch -av
 Switch HEAD branch
@@ -48,7 +47,7 @@ Delete a local branch
 $ git branch -d <branch>
 Mark the current commit with a tag
 $ git tag <tag-name>
-UPDATE & PUBLISH
+# UPDATE & PUBLISH
 List all currently configured remotes
 $ git remote -v
 Show information about a remote
@@ -56,7 +55,7 @@ $ git remote show <remote>
 Add new remote repository, named <remote>
 $ git remote add <shortname> <url>
 Download all changes from <remote>,
-but don¡®t integrate into HEAD
+but don‘t integrate into HEAD
 $ git fetch <remote>
 Download changes and directly
 merge/integrate into HEAD
@@ -67,11 +66,11 @@ Delete a branch on the remote
 $ git branch -dr <remote/branch>
 Publish your tag s
 $ git push --tags
-MERGE & REBASE
+# MERGE & REBASE
 Merge <branch> into your current HEAD
 $ git merge <branch>
 Rebase your current HEAD onto <branch>
-Don¡®t rebase published commits!
+Don‘t rebase published commits!
 $ git rebase <branch>
 Abort a rebase
 $ git rebase --abort
@@ -83,8 +82,8 @@ $ git mergetool
 Use your editor to manually solve conflicts
 and (after resolving) mark file as resolved
 $ git add <resolved-file>
-$ git rm <resolved-file>
-UNDO
+$ git rm <resolved-file> 
+# UNDO
 Discard all local changes in your working
 directory
 $ git reset --hard HEAD
