@@ -127,7 +127,7 @@ Merge <branch> into your current HEAD
 
         $ git merge <branch>
         
-Rebase your current HEAD onto <branch>
+Rebase your current HEAD onto /<branch/>
 *Don‘t rebase published commits!*
 
         $ git rebase <branch>
