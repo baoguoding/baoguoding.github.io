@@ -96,11 +96,11 @@ Show information about a remote
 
         $ git remote show <remote>
         
-Add new remote repository, named <remote>
+Add new remote repository, named &lt;remote>
 
         $ git remote add <shortname> <url>
         
-Download all changes from <remote>,
+Download all changes from &lt;remote>,
 but don‘t integrate into HEAD
 
         $ git fetch <remote>
@@ -123,11 +123,11 @@ Publish your tag s
         $ git push --tags
         
 # MERGE & REBASE
-Merge <branch> into your current HEAD
+Merge &lt;branch> into your current HEAD
 
         $ git merge <branch>
         
-Rebase your current HEAD onto <branch>
+Rebase your current HEAD onto &lt;branch>
 
 *Don‘t rebase published commits!*
 
