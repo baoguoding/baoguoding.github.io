@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GIT CHEAT SHEET
+title: GIT FAST TUTORIAL
 pid: 100
 tags: [WordPress]
 ---
