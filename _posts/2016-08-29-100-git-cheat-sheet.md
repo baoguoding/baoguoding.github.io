@@ -15,6 +15,7 @@ Create a new local repository
   
 # LOCAL CHANGES
 Changed files in your working directory
+
         $ git status
 Changes to tracked files
         $ git diff
