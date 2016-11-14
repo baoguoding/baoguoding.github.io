@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sublime Text 3 的Nodejs插件
-pid: 100
+pid: 105
 tags: [Sublime, Nodejs]
 ---
 
