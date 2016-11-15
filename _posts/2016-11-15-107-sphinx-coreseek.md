@@ -2,7 +2,7 @@
 layout: post
 title: Sphinx Coreseek
 pid: 107
-tags: [sphinx， coreseek]
+tags: [sphinx,coreseek]
 ---
 
 
