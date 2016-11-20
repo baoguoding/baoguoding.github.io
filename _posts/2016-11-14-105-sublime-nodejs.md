@@ -2,7 +2,7 @@
 layout: post
 title: Sublime Text 3 的Nodejs插件
 pid: 105
-tags: [Sublime, Nodejs]
+tags: [Sublime, nodejs]
 ---
 
 在使用Sublime Text 3开发Nodejs程序的时候，我们需要安装Nodejs的插件。可以按照以下步骤来操作。
