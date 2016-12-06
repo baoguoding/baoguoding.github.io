@@ -2,7 +2,7 @@
 layout: post
 title: GIT CHEAT SHEET
 pid: 100
-tags: [Git]
+tags: [git]
 ---
 # CREATE
 Clone an existing repository
