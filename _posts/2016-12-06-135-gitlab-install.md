@@ -21,11 +21,9 @@ tags: [git, gitlab]
     [root@localhost ~]# sudo chkconfig postfix on
     [root@localhost ~]# sudo gitlab-ctl reconfigure
 
-# 更新 gitlab.rb
+# Update gitlab.rb
 
-    [root@localhost ~]# vim /etc/gitlab/gitlab.rb
-
-    sudo vi /etc/gitlab/gitlab.rb       
+    [root@localhost ~]# vim /etc/gitlab/gitlab.rb     
 
     # Change the external_url to the address your users will type in their browser
     external_url 'http://xxhost.com'
@@ -44,13 +42,14 @@ tags: [git, gitlab]
     gitlab_rails['gitlab_email_from'] = "xxuser@163.com"
     user["git_user_email"] = "xxuser@163.com"
 
+# Update Nginx Port
 
     [root@localhost ~]# vim /var/opt/gitlab/nginx/conf/gitlab-http.conf  //修改端口
     server {
       listen *:8001;
       server_name 192.168.15.87;
     }
-
+# Restart gitlab
     [root@localhost ~]# gitlab-ctl restart
 
 
