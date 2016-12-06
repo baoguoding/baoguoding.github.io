@@ -19,7 +19,7 @@ tags: [git, gitlab]
     [root@localhost ~]# sudo yum -y install postfix cronie
     [root@localhost ~]# sudo service postfix start
     [root@localhost ~]# sudo chkconfig postfix on
-    [root@localhost ~]# sudo gitlab-ctl reconfigure
+    
 
 # Update gitlab.rb
 
@@ -49,7 +49,9 @@ tags: [git, gitlab]
       listen *:8001;
       server_name 192.168.15.87;
     }
-# Restart gitlab
+    
+# 重启使配置生效
+    [root@localhost ~]# sudo gitlab-ctl reconfigure
     [root@localhost ~]# gitlab-ctl restart
 
 
