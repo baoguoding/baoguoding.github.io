@@ -120,3 +120,4 @@ tags: [git, gitlab]
 参考：
 
 [GitLab在CentOS7下LNMP环境的安装使用](http://blog.csdn.net/w670328683/article/details/50736977)
+[使用Gitlab一键安装包后的日常备份恢复与迁移](https://segmentfault.com/a/1190000002439923)
