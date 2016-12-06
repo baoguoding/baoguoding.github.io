@@ -14,7 +14,7 @@ tags: [git, gitlab]
     [root@localhost src]# rpm -i gitlab-ce-8.5.4-ce.0.el7.x86_64.rpm
     [root@localhost src]# gitlab-ctl reconfigure
 
-# 配置发件邮箱
+# 安装发件邮箱
 
     [root@localhost ~]# sudo yum -y install postfix cronie
     [root@localhost ~]# sudo service postfix start
