@@ -118,7 +118,7 @@ tags: [redmine]
     2. 管理 >>>  配置 >>> 邮件通知 >> 修改发件人，保存， 点击最下方的“发送测试邮件”。
 
 
-
+＃ 参考资料
 
 1. [centos7下使用gitlab+redmine+jenkins](http://blog.csdn.net/u012375924/article/details/47951173)
 2. [CentOS 7下安装Redmine中文版图文教程](http://www.cr173.com/html/50478_1.html)
