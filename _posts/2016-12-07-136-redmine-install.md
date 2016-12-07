@@ -120,8 +120,8 @@ tags: [redmine]
 
 
 
-[centos7下使用gitlab+redmine+jenkins](http://blog.csdn.net/u012375924/article/details/47951173)
-[CentOS 7下安装Redmine中文版图文教程](http://www.cr173.com/html/50478_1.html)
-[CentOS安装配置redmine 走了好多弯路 总算搞定](https://my.oschina.net/smilelxb/blog/496763)
-[Redmine安装过程疑难杂症](http://zengrong.net/post/1936.htm)
-[redmine邮件发送功能配置详解](http://blog.chinaunix.net/uid-26000296-id-5047175.html)
+1. [centos7下使用gitlab+redmine+jenkins](http://blog.csdn.net/u012375924/article/details/47951173)
+2. [CentOS 7下安装Redmine中文版图文教程](http://www.cr173.com/html/50478_1.html)
+3. [CentOS安装配置redmine 走了好多弯路 总算搞定](https://my.oschina.net/smilelxb/blog/496763)
+4. [Redmine安装过程疑难杂症](http://zengrong.net/post/1936.htm)
+5. [redmine邮件发送功能配置详解](http://blog.chinaunix.net/uid-26000296-id-5047175.html)
