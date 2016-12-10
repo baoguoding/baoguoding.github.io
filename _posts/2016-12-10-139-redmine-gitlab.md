@@ -13,20 +13,20 @@ tags: [redmine, gitlab]
 
 ## 更新配置文件gitlab.yml
 
-[root@localhost ~]# cd /var/opt/gitlab/gitlab-rails/etc/
-[root@localhost etc]# vim gitlab.yml 
+    [root@localhost ~]# cd /var/opt/gitlab/gitlab-rails/etc/
+    [root@localhost etc]# vim gitlab.yml 
 
-  issues_tracker:
-    redmine:
-      title: "Redmine"
-      project_url: "http://redmine/projects/:issues_tracker_id"
-      issues_url: "http://redmine/:project_id/:issues_tracker_id/:id"
-      new_issue_url: "http://redmine/projects/:issues_tracker_id/issues/new"
+      issues_tracker:
+        redmine:
+          title: "Redmine"
+          project_url: "http://redmine/projects/:issues_tracker_id"
+          issues_url: "http://redmine/:project_id/:issues_tracker_id/:id"
+          new_issue_url: "http://redmine/projects/:issues_tracker_id/issues/new"
 
 
 ## 重启gitlab
 
-[root@localhost etc]# gitlab-ctl restart
+    [root@localhost etc]# gitlab-ctl restart
 
 # 在Gitlab里面设置redmine来做issuetracker
 1. 登录到gitlab中
@@ -40,22 +40,22 @@ tags: [redmine, gitlab]
 
 ## 查找自己项目的git文件
 
-[root@localhost ~]# cd /var/opt/gitlab/gitlab-rails/etc/
-[root@localhost etc]# vim gitlab.yml   //查找一个叫repos_path的配置
-[root@localhost etc]# cd /var/opt/gitlab/git-data/repositories
-//找到自己项目的git文件。
+    [root@localhost ~]# cd /var/opt/gitlab/gitlab-rails/etc/
+    [root@localhost etc]# vim gitlab.yml   //查找一个叫repos_path的配置
+    [root@localhost etc]# cd /var/opt/gitlab/git-data/repositories
+    //找到自己项目的git文件。
 
 
 ## 将上面git文件地址配置到redmine中
 
-1. 登录到redmine平台http://192.168.10.37:3000
-2. 项目 >> [你自己的项目] >> 配置 >> 版本库
-3. 新增版本库
-SCM: Git
-主版本库：Yes
-标识: xxx_project
-库路径： /var/opt/gitlab/git-data/repositories/root/xxx_project.git
-4. 点击保存。
-5. 点击标识xxx_project就可以查看提交。
-6. 点击用户，就可以把Redmine中的用户与Gitlab中的用户关联。
-7. 同样，也可以在活动中看到每日和系统相关的活动。
+    1. 登录到redmine平台http://192.168.10.37:3000
+    2. 项目 >> [你自己的项目] >> 配置 >> 版本库
+    3. 新增版本库
+    SCM: Git
+    主版本库：Yes
+    标识: xxx_project
+    库路径： /var/opt/gitlab/git-data/repositories/root/xxx_project.git
+    4. 点击保存。
+    5. 点击标识xxx_project就可以查看提交。
+    6. 点击用户，就可以把Redmine中的用户与Gitlab中的用户关联。
+    7. 同样，也可以在活动中看到每日和系统相关的活动。
