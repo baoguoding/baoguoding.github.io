@@ -12,30 +12,31 @@ https://bitbucket.org/haru_iida/redmine_code_review/downloads/redmine_code_revie
 
 
 # 操作步骤
-1. Copy the plugin directory into the plugins directory
-2. Migrate plugin:
-   rake redmine:plugins:migrate RAILS_ENV=production
-3. Start Redmine
-4. Add code review module into your project.
-5. Go to code review setting tab in the project setting page and select tracker.
+      1. Copy the plugin directory into the plugins directory
+      2. Migrate plugin:
+         rake redmine:plugins:migrate RAILS_ENV=production
+      3. Start Redmine
+      4. Add code review module into your project.
+      5. Go to code review setting tab in the project setting page and select tracker.
 
 
-    [root@localhost ~]# cd /opt/redmine/plugins/
-    [root@localhost plugins]# unzip redmine_code_review-0.7.0.zip 
-    [root@localhost plugins]# rake redmine:plugins:migrate RAILS_ENV=production
-    [root@localhost plugins]# cd /opt/redmine/
-    [root@localhost redmine]# ./bin/rails server -p3000 -b0.0.0.0 -e production -d
+      [root@localhost ~]# cd /opt/redmine/plugins/
+      [root@localhost plugins]# unzip redmine_code_review-0.7.0.zip 
+      [root@localhost plugins]# rake redmine:plugins:migrate RAILS_ENV=production
+      [root@localhost plugins]# cd /opt/redmine/
+      [root@localhost redmine]# ./bin/rails server -p3000 -b0.0.0.0 -e production -d
 
 
-    管理 >> 跟踪标签 >>　建一个 Code Review 的标签
-    管理 >> 项目 >> xxx 项目 >> 配置 >>　模块 >>　启用代码评审， 点击保存
+      管理 >> 跟踪标签 >>　建一个 Code Review 的标签
+      管理 >> 项目 >> xxx 项目 >> 配置 >>　模块 >>　启用代码评审， 点击保存
 
 
 
+# 错误信息
 
-ActiveRecord::StatementInvalid (Mysql2::Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':conditions=>["project_id = ? and issue_id is NOT NULL", 1]}) FROM `code_reviews' at line 1: SELECT COUNT({:conditions=>["project_id = ? and issue_id is NOT NULL", 1]}) FROM `code_reviews`):
-  plugins/redmine_code_review/app/controllers/code_review_controller.rb:40:in `index'
-  lib/redmine/sudo_mode.rb:63:in `sudo_mode'
+      ActiveRecord::StatementInvalid (Mysql2::Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':conditions=>["project_id = ? and issue_id is NOT NULL", 1]}) FROM `code_reviews' at line 1: SELECT COUNT({:conditions=>["project_id = ? and issue_id is NOT NULL", 1]}) FROM `code_reviews`):
+        plugins/redmine_code_review/app/controllers/code_review_controller.rb:40:in `index'
+        lib/redmine/sudo_mode.rb:63:in `sudo_mode'
 
   
   
