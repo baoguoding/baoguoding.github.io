@@ -166,12 +166,11 @@ tags: [centos, testlink]
 
 
 
-
-
-[PHP 5.5, 5.6, or 7.0—CentOS](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/php-centos.html#instgde-prereq-php56-install-centos)
-[HOW TO INSTALL PHP 5.6 ON CENTOS 7 WITH PHP-FPM NGINX AND MARIADB WITH VSFTPD](https://www.xshellz.com/community/tutorials/47975/How-to-install-php-5.6-on-CentOS-7-with-php-fpm-nginx-and-mariadb-with-vsftpd)
-[TestLinkとは](http://qiita.com/shoooo/items/01682a255448c2b4ecd3)
-[Centos下Yum安装PHP5.5,5.6,7.0](http://www.blogjava.net/nkjava/archive/2015/01/20/422289.html)
-[TestLink学习二：Windows搭建TestLink环境](http://www.cnblogs.com/yangxia-test/p/4414840.html)
-[TestLink学习三：发送邮件的两种配置方法](http://www.cnblogs.com/yangxia-test/p/4453042.html)
+# 参考资料
+1. [PHP 5.5 5.6, or 7.0—CentOS](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/php-centos.html#instgde-prereq-php56-install-centos)
+2. [HOW TO INSTALL PHP 5.6 ON CENTOS 7 WITH PHP-FPM NGINX AND MARIADB WITH VSFTPD](https://www.xshellz.com/community/tutorials/47975/How-to-install-php-5.6-on-CentOS-7-with-php-fpm-nginx-and-mariadb-with-vsftpd)
+3. [TestLinkとは](http://qiita.com/shoooo/items/01682a255448c2b4ecd3)
+4. [Centos下Yum安装PHP5.5,5.6,7.0](http://www.blogjava.net/nkjava/archive/2015/01/20/422289.html)
+5. [TestLink学习二：Windows搭建TestLink环境](http://www.cnblogs.com/yangxia-test/p/4414840.html)
+6. [TestLink学习三：发送邮件的两种配置方法](http://www.cnblogs.com/yangxia-test/p/4453042.html)
 
