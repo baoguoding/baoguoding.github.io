@@ -6,49 +6,50 @@ tags: [im, openfire, spark]
 ---
 # Openfire开发环境搭建
 
-    在这个搭建过程中，重点是需要用到几个包和一个奇怪的错误，其他没有什么难点。
+在这个搭建过程中，重点是需要用到几个包和一个奇怪的错误，其他没有什么难点。
 
-    Jdk: 1.8.0_92
+Jdk: 1.8.0_92
 
-    1. [Downloads](http://www.igniterealtime.org/downloads/source.jsp)
-    2. [openfire_src_4_0_4.zip](http://www.igniterealtime.org/downloads/download-landing.jsp?file=openfire/openfire_src_4_0_4.zip)
-    3. [openfire_src_4_0_4.tar.gz](http://www.igniterealtime.org/downloads/download-landing.jsp?file=openfire/openfire_src_4_0_4.tar.gz)
-
-
-    ## unzip openfire_src_4_0_4.zip to your eclipse workspace
-    注意：不要修改openfire_src的名字
-
-    ## open eclipse,new project with name[openfire_src], and finish
-    注意：这个地方openfire_src文件是绝对路径。
-
-    ## add below 4 files to "\openfire_src\build\lib" and "add to build path".
-    1. coherence.jar
-    2. coherence-work.jar
-    3. tangosol.jar
-    4. ant-1.8.1.jar
-
-    链接：[4 files](http://pan.baidu.com/s/1dFwt9Wt) 密码：526v
+1. [Downloads](http://www.igniterealtime.org/downloads/source.jsp)
+2. [openfire_src_4_0_4.zip](http://www.igniterealtime.org/downloads/download-landing.jsp?file=openfire/openfire_src_4_0_4.zip)
+3. [openfire_src_4_0_4.tar.gz](http://www.igniterealtime.org/downloads/download-landing.jsp?file=openfire/openfire_src_4_0_4.tar.gz)
 
 
-    "add to build path": selected jars, right click, choose Build Path >> Add to Build Path.
+        ## unzip openfire_src_4_0_4.zip to your eclipse workspace
+        注意：不要修改openfire_src的名字
 
-    ## Setup Ant
-    1. Window --> Show View --> Ant
-    2. Add Buildfiles >> choose file \openfire_src\build\build.xml
+        ## open eclipse,new project with name[openfire_src], and finish
+        注意：这个地方openfire_src文件是绝对路径。
 
+        ## add below 4 files to "\openfire_src\build\lib" and "add to build path".
+        1. coherence.jar
+        2. coherence-work.jar
+        3. tangosol.jar
+        4. ant-1.8.1.jar
 
-    ## Copy tools.jar
-
-    from \jdk1.8.0_92\lib to \jre1.8.0_92\lib
-
-    ## run ant
-
-    ## add jars with beow path to "Add to Build Path"
-
-    \openfire_src\target\openfire\lib\*.jar
+        
+链接：[4 files](http://pan.baidu.com/s/1dFwt9Wt) 密码：526v
 
 
-    ## remove the rest complied error project from your work space.
+        "add to build path": selected jars, right click, choose Build Path >> Add to Build Path.
+
+        ## Setup Ant
+        1. Window --> Show View --> Ant
+        2. Add Buildfiles >> choose file \openfire_src\build\build.xml
+
+
+        ## Copy tools.jar
+
+        from \jdk1.8.0_92\lib to \jre1.8.0_92\lib
+
+        ## run ant
+
+        ## add jars with beow path to "Add to Build Path"
+
+        \openfire_src\target\openfire\lib\*.jar
+
+
+        ## remove the rest complied error project from your work space.
 
 
 
