@@ -53,7 +53,7 @@ Jdk: 1.8.0_92
 
 
 
-    ## Setup starter
+## Setup starter
 
     1. Run >> Run Configurations >> Java Application >> New >> Name: ServerStarter
     2. Main Tab
