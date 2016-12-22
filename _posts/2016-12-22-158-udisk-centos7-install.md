@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U盘制作Centos7安装镜像
+title: U盘安装Centos7
 pid: 158
 tags: [ultraios, centos]
 ---
