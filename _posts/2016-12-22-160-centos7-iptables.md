@@ -19,5 +19,6 @@ tags: [linux, centos, network]
     [root@localhost ~]# systemctl restart iptables.service #最后重启防火墙使配置生效
     [root@localhost ~]# systemctl enable iptables.service #设置防火墙开机启动 
 
+# 参考资料
 
 [CentOS 7.0，启用iptables防火墙](http://www.open-open.com/lib/view/open1411818940031.html)
