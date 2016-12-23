@@ -38,6 +38,8 @@ tags: [centos, hadoop]
     export JAVA_HOME=/usr/java/jdk1.8.0_112
     export CLASSPATH=.:$JAVA_HOME/jre/lib/rt.jar:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
     export PATH=$PATH:$JAVA_HOME/bin
+    
+    export PATH=$PATH:/usr/local/hadoop/sbin:/usr/local/hadoop/bin
 
     [hadoop@localhost hadoop]$ source ~/.bashrc
 
