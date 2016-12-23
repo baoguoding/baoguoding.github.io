@@ -31,7 +31,7 @@ tags: [centos, hadoop]
     [hadoop@localhost hadoop]$ ./bin/hadoop version
     [hadoop@localhost hadoop]$ vim ~/.bashrc
 
-# User specific aliases and functions
+    # User specific aliases and functions
     export HADOOP_HOME=/usr/local/hadoop
     export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
 
