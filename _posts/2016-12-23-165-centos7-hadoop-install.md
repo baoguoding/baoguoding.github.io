@@ -17,7 +17,7 @@ tags: [centos, hadoop]
 
 # 安装配置Jdk和JAVA_HOME
 
-[Centos7安装jdk实战](http://www.baoguoding.com/2016/12/164-centos7-jdk.html)
+参考： [Centos7安装jdk实战](http://www.baoguoding.com/2016/12/164-centos7-jdk.html)
 
 # 安装配置Hadoop
 
