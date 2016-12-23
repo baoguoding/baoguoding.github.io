@@ -184,3 +184,4 @@ http://localhost:50070
 5. [Ubuntu 14.04下安装JDK8](http://www.cnblogs.com/archimedes/p/ubuntu-jdk8.html)
 6. [HDFS主要特性和体系结构](http://www.cnblogs.com/wuyudong/p/4404242.html)
 7. [Hadoop安装教程_单机/伪分布式配置_Hadoop2.6.0/Ubuntu14.04](http://dblab.xmu.edu.cn/blog/install-hadoop/)
+8. [Hadoop集群（第5期）_Hadoop安装配置](http://www.cnblogs.com/xia520pi/archive/2012/05/16/2503949.html)
