@@ -4,6 +4,32 @@ title: 在Centos7中安装Hadoop实战
 pid: 165
 tags: [centos, hadoop]
 ---
+# 更新limits.conf 
+    
+    [root@master ~]# vim /etc/security/limits.conf 
+
+    hdfs            -       nofile          32768
+    hbase           -       nofile          32768
+
+    hdfs            soft    nproc           32000
+    hdfs            hard    nproc           32000
+
+    hbase           soft    nproc           32000
+    hbase           hard    nproc           32000
+
+[参考](https://github.com/mcsrainbow/salt-states-hadoop/blob/master/salt/hadoop/files/limits.conf)
+
+# 更新hostname
+
+    [root@master ~]# hostnamectl set-hostname master
+    [root@master ~]# hostname
+    [root@master ~]# vim /etc/hosts
+    127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+    ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+    192.168.10.68 master.hadoop.lan
+
+
 # 创建hadoop用户
 
     [root@localhost ~]# useradd -m hadoop -s /bin/bash
@@ -85,7 +111,7 @@ tags: [centos, hadoop]
         </property>
         <property>
             <name>fs.defaultFS</name>
-            <value>hdfs://localhost:9000</value> 如果你希望所有IP都可以访问可以修改成0.0.0.0
+            <value>hdfs://master.hadoop.lan:9000</value>
         </property>
     </configuration>
 
@@ -185,3 +211,8 @@ http://localhost:50070
 6. [HDFS主要特性和体系结构](http://www.cnblogs.com/wuyudong/p/4404242.html)
 7. [Hadoop安装教程_单机/伪分布式配置_Hadoop2.6.0/Ubuntu14.04](http://dblab.xmu.edu.cn/blog/install-hadoop/)
 8. [Hadoop集群（第5期）_Hadoop安装配置](http://www.cnblogs.com/xia520pi/archive/2012/05/16/2503949.html)
+9. [Hadoop之——HDFS操作实例](http://blog.csdn.net/l1028386804/article/details/45921443)
+10. [hadoop集群默认配置和常用配置](http://www.cnblogs.com/ggjucheng/archive/2012/04/17/2454590.html)
+11. [hadoop http address绑定内网地址](http://blog.csdn.net/cheersu/article/details/8191743)
+12. [Hadoop上传文件报错解决方法](http://www.fuhenet.com/news/9005.html)
+
