@@ -167,7 +167,9 @@ tags: [centos, hadoop]
 ## 配置防火墙
 
     [hadoop@localhost ~]$ sudo vim /etc/sysconfig/iptables
+    -A INPUT -p tcp -m state --state NEW -m tcp --dport 9000 -j ACCEPT
     -A INPUT -p tcp -m state --state NEW -m tcp --dport 50070 -j ACCEPT
+    -A INPUT -p tcp -m state --state NEW -m tcp --dport 50010 -j ACCEPT
     [hadoop@localhost ~]$ service iptables restart
 
 ## 通过浏览器访问
