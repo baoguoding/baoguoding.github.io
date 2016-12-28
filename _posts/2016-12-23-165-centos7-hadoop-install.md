@@ -85,7 +85,7 @@ tags: [centos, hadoop]
         </property>
         <property>
             <name>fs.defaultFS</name>
-            <value>hdfs://localhost:9000</value>
+            <value>hdfs://localhost:9000</value> 如果你希望所有IP都可以访问可以修改成0.0.0.0
         </property>
     </configuration>
 
