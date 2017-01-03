@@ -203,7 +203,7 @@ http://localhost:50070
     [hadoop@localhost hadoop]$ ./sbin/start-dfs.sh 
 
 
-
+# 参考资料
 
 1. [HDFS简单入门](http://www.cnblogs.com/archimedes/p/hadoop-simple.html)
 2. [hadoop集群搭建](http://blog.chinaunix.net/uid-23916356-id-3254578.html)
