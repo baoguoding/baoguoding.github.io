@@ -31,3 +31,10 @@ tags: [linux, centos, network]
 
 
     [root@localhost ~]# shutdown -r now
+
+# 其他
+
+    动态获取IP这么设置
+    #BOOTPROTO=dhcp
+
+最好的办法，是到图形界面下，手动设置IP地址，这样就不用记住那么多命令行命令了。。
