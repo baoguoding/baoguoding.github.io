@@ -212,6 +212,27 @@ http://localhost:50070
 
     我喜欢第一个方法。
 
+# 其他
+
+    https://github.com/srccodes/hadoop-common-2.2.0-bin
+
+    http://www.huqiwen.com/2013/07/18/hdfs-permission-denied/
+
+
+    Exception in thread "main" org.apache.hadoop.security.AccessControlException: Permission denied: user=baoguo, access=WRITE, inode="/d100":hadoop:supergroup:drwxr-xr-x
+
+    http://blog.csdn.net/xw13106209/article/details/6866072
+
+    Name node is in safe mode
+    bin/hadoop dfsadmin -safemode leave 
+
+    用户可以通过dfsadmin -safemode value 来操作安全模式，参数value的说明如下：
+    enter - 进入安全模式
+    leave - 强制NameNode离开安全模式
+    get - 返回安全模式是否开启的信息
+    wait - 等待，一直到安全模式结束。
+
+
 # 参考资料
 
 1. [HDFS简单入门](http://www.cnblogs.com/archimedes/p/hadoop-simple.html)
