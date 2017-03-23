@@ -202,6 +202,15 @@ http://localhost:50070
     [hadoop@localhost hadoop]$ ./bin/hdfs namenode -format
     [hadoop@localhost hadoop]$ ./sbin/start-dfs.sh 
 
+# 最终，总结下来解决办法大概有三种：
+
+    1、在系统的环境变量或java JVM变量里面添加HADOOP_USER_NAME，这个值具体等于多少看自己的情况，以后会运行HADOOP上的Linux的用户名。（修改完重启eclipse，不然可能不生效）
+
+    2、将当前系统的帐号修改为hadoop
+
+    3、使用HDFS的命令行接口修改相应目录的权限，hadoop fs -chmod 777 /user,后面的/user是要上传文件的路径，不同的情况可能不一样，比如要上传的文件路径为hdfs://namenode/user/xxx.doc，则这样的修改可以，如果要上传的文件路径为hdfs://namenode/java/xxx.doc，则要修改的为hadoop fs -chmod 777 /java或者hadoop fs -chmod 777 /，java的那个需要先在HDFS里面建立Java目录，后面的这个是为根目录调整权限。
+
+    我喜欢第一个方法。
 
 # 参考资料
 
