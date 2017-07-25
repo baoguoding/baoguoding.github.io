@@ -9,25 +9,25 @@ Gitlab服务器迁移
 
 在做下面所有步骤之前，请确认新的服务器和旧的服务器版本是一致的。
 
-# BACKUP
+    # BACKUP
     [root@localhost ~]# gitlab-rake gitlab:backup:create RAILS_ENV=production
 
-# DOWNLOAD from source server
+    # DOWNLOAD from source server
     [root@localhost ~]# /var/opt/gitlab/backups/1500886271_gitlab_backup.tar
 
-# UPLOAD to dest server
+    # UPLOAD to dest server
     [root@localhost ~]# /var/opt/gitlab/backups/1500886271_gitlab_backup.tar
 
-# RESTORE
+    # RESTORE
     [root@localhost ~]# gitlab-rake gitlab:backup:restore RAILS_ENV=production   BACKUP=1500889620
 
-# RESET YOUR LOCAL
+    # RESET YOUR LOCAL
     [root@localhost ~]# git remote set-url origin git@192.168.xx.xx:root/sample.git
 
-# TEST TO PULL
+    # TEST TO PULL
     [root@localhost ~]# get pull
 
-# CLOSE SOURCE Server
+    # CLOSE SOURCE Server
     [root@localhost ~]# gitlab-ctl stop
 
 
