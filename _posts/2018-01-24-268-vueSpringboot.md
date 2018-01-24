@@ -103,8 +103,8 @@ tags: [vueJs, SpringBoot]
 
 # Manage PlugIn
 
-	1. NodeJS Plugin
-	2. Maven Integration plugin
+1. NodeJS Plugin
+2. Maven Integration plugin
 
 
 # Create Manven Project in Jenkins
