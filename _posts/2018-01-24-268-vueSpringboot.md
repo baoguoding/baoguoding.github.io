@@ -79,10 +79,10 @@ tags: [vueJs, SpringBoot]
 	echo "**********************jenkins started*************************"
 	echo "授予当前用户权限"
 
-	chmod 777 /usr/local/hyl-main/deploy/hyl-main.jar
+	chmod 777 /usr/local/xx-main/deploy/hyl-main.jar
 	echo "执行....."
-	cd /usr/local/hyl-main/deploy
-	java -jar hyl-main.jar
+	cd /usr/local/xx-main/deploy
+	java -jar xx-main.jar
 	echo "**********************jenkins end*************************"
 
 
