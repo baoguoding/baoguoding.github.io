@@ -7,7 +7,11 @@ tags: [vueJs, SpringBoot]
 
 # Install & Configure JDK
 
+> 自己找帮助
+
 # Install & Configure Maven
+
+> 自己找帮助
 
 # Install & Configure Jenkins
 
@@ -90,15 +94,15 @@ tags: [vueJs, SpringBoot]
 
 # Global Tool Configuration
 
-## JDK
+> JDK
 
 	/usr/java/jdk1.7.0_80
 
-## MAVEN
+> MAVEN
 
 	/usr/share/maven
 
-## NodeJS
+> NodeJS
 
 	/usr/local/node
 
