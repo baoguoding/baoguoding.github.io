@@ -90,15 +90,15 @@ tags: [vueJs, SpringBoot]
 
 > JDK
 
-	/usr/java/jdk1.7.0_80
+/usr/java/jdk1.7.0_80
 
 > MAVEN
 
-	/usr/share/maven
+/usr/share/maven
 
 > NodeJS
 
-	/usr/local/node
+/usr/local/node
 
 
 # Manage PlugIn
