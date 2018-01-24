@@ -73,23 +73,17 @@ tags: [vueJs, SpringBoot]
 	cp $source_file ./deploy
 
 
-> stop.sh
+> startup.sh
 
-	#!将应用停止
-	#!stop.sh
 	#!/bin/bash
-	cd /usr/local/xx-main/deploy_script
-	echo "Stopping SpringBoot Application"
-	ls
-	pid=`ps -ef | grep xx-main.jar | grep -v grep | awk '{print $2}'`
-	if [ -n "$pid" ]
-	then
-	#!kill -9 强制终止
-	   echo "kill -9 的pid:" $pid
-	   kill -9 $pid
-	fi
+	echo "**********************jenkins started*************************"
+	echo "授予当前用户权限"
 
-
+	chmod 777 /usr/local/hyl-main/deploy/hyl-main.jar
+	echo "执行....."
+	cd /usr/local/hyl-main/deploy
+	java -jar hyl-main.jar
+	echo "**********************jenkins end*************************"
 
 
 # Global Tool Configuration
