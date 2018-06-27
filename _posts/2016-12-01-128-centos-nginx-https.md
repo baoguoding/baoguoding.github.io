@@ -100,4 +100,4 @@ centos下安装nginx （注：如果nginx成功启动后还是不能访问查看
 
 [nginx开机启动](https://blog.csdn.net/u013870094/article/details/52463026)
 
-[80-->>443](https://blog.csdn.net/m0_37886429/article/details/72271983)
+[80端口跳转443端口](https://blog.csdn.net/m0_37886429/article/details/72271983)
