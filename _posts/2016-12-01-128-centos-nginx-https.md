@@ -20,6 +20,10 @@ centos下安装nginx （注：如果nginx成功启动后还是不能访问查看
 
     # 解压nginx
     [wwwroot@localhost conf]$ sudo tar zxvf nginx-版本号.tar.gz 
+    
+    
+    # 安装openssl
+    [wwwroot@localhost conf]$ yum -y install openssl openssl-devel
 
 
     # cd到目录
