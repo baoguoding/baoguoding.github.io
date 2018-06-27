@@ -40,6 +40,9 @@ centos下安装nginx （注：如果nginx成功启动后还是不能访问查看
 
     # 安装 
     [wwwroot@localhost conf]$ sudo make install
+    
+    # 启动 
+    [wwwroot@localhost conf]$ sudo /usr/local/nginx/sbin/nginx -c /usr/local/nginx/conf/nginx.conf 
 
 
     # 配置conf
