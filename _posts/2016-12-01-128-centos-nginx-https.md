@@ -97,3 +97,7 @@ centos下安装nginx （注：如果nginx成功启动后还是不能访问查看
 # 参考资料
 
 [centos下使用nginx搭建https服务器](http://blog.csdn.net/u014190646/article/details/50058859)
+
+[nginx开机启动](https://blog.csdn.net/u013870094/article/details/52463026)
+
+[80-->>443](https://blog.csdn.net/m0_37886429/article/details/72271983)
