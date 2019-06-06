@@ -97,4 +97,4 @@ P序列=技术岗 M序列=管理岗 (注：样本有限，以下全部数据仅�
 各个公司头衔名字都不一样，级别的数目也不一样；有些扁平，有些很多level慢慢升；有些薪水范围严格跟级别挂钩，有些薪水和级别并没有绝对对应的关系。无论你是向往BAT还是身居其中，把握每年的评级机会/跳槽机会，建立一条上升的职业曲线更为重要。因为，没有变化是一件很可怕的事情。
 
 # 参考
-+ [深挖BAT内部级别和薪资待遇，你敢看？](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=207265348&idx=1&sn=dce6366818be482a046bba0a639bd31c&scene=7#wechat_redirect).%202015.05)
++ [深挖BAT内部级别和薪资待遇，你敢看？](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=207265348&idx=1&sn=dce6366818be482a046bba0a639bd31c&scene=7#wechat_redirect)

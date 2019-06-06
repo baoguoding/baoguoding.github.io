@@ -68,4 +68,4 @@ tags: [人力资源]
 这篇是我给李翔的《财经天下》写的专栏。谢谢李翔还有编辑哥施雨华。。。施编辑哥。。说好的带我和雷晓宇去围观徐皓峰呢？
 
 # 参考
-+ [腾讯的职级系统——看清自己的职场宿命](https://mp.weixin.qq.com/s?__biz=MjM5MjA4MjU4MQ==&mid=200790551&idx=1&sn=17cb243a839d12f19a997be4d2572537&scene=21).%202014.08)
++ [腾讯的职级系统——看清自己的职场宿命](https://mp.weixin.qq.com/s?__biz=MjM5MjA4MjU4MQ==&mid=200790551&idx=1&sn=17cb243a839d12f19a997be4d2572537&scene=21)

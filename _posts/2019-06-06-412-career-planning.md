@@ -101,4 +101,4 @@ Q: 应该以什么样的心态去看晋升？
 候选人最重要的是调整好自己心态，“不以物喜，不以己悲”，明白自己核心价值所关注的事情（参看拙作[选择学习目标的方法与自然法则](https://mp.weixin.qq.com/s?__biz=MzA5MTE0MDUxMA==&mid=211609137&idx=1&sn=61914bf75aa4c381b8e22da07d92dc11&scene=21#wechat_redirect)），将更多的精力投入到自己关注的事情上去，并产生相应的成果及影响，这个比一个晋升结果意义要大得多。晋升评审可以视为是一个职场游戏，不少得到晋升的人员后面无所成就的案例也是层出不穷。大部分情况下，晋升通过与否仅是薪资的一个损失，只要候选人明确及坚持自己的目标，其他包括个人能力，职业生涯、个人影响力基本没有实质性的影响。
 
 # 参考
-+ [程序员晋升攻略](https://mp.weixin.qq.com/s?__biz=MzA5MTE0MDUxMA==&mid=404382284&idx=1&sn=87f0cdcb5c41bb556304b0bfb038f4ee&scene=4#wechat_redirect).%202015.10)
++ [程序员晋升攻略](https://mp.weixin.qq.com/s?__biz=MzA5MTE0MDUxMA==&mid=404382284&idx=1&sn=87f0cdcb5c41bb556304b0bfb038f4ee&scene=4#wechat_redirect)
