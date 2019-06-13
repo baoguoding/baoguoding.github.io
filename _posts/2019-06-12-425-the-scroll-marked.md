@@ -5,6 +5,8 @@ pid: 425
 tags: [羊皮卷]
 ---
 
+
++ [羊皮卷之零：序言](http://www.baoguoding.com/2019/06/426-the-scroll-marked00.html)
 + [羊皮卷之一：今天，我开始新的生活](http://www.baoguoding.com/2019/06/415-the-scroll-marked01.html)
 + [羊皮卷之二：我要用全身心的爱来迎接今天](http://www.baoguoding.com/2019/06/416-the-scroll-marked02.html)
 + [羊皮卷之三：坚持不懈，直到成功](http://www.baoguoding.com/2019/06/417-the-scroll-marked03.html)
