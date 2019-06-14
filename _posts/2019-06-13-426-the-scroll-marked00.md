@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 羊皮卷之零 序言
+title: 羊皮卷 序言
 pid: 426
 tags: [羊皮卷]
 ---
