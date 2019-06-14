@@ -5,6 +5,10 @@ pid: 417
 tags: [羊皮卷]
 ---
 
+<audio controls>
+  <source src="/uploads/2019/06/tsm03.mp3" type="audio/mpeg">
+</audio>
+
 The Scroll Marked Three
 
 第三道羊皮卷

@@ -5,6 +5,10 @@ pid: 415
 tags: [羊皮卷]
 ---
 
+<audio controls>
+  <source src="/uploads/2019/06/tsm01.mp3" type="audio/mpeg">
+</audio>
+
 The Scroll Marked One
 
 第一道羊皮卷

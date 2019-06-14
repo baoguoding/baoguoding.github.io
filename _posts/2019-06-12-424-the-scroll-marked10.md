@@ -5,6 +5,10 @@ pid: 424
 tags: [羊皮卷]
 ---
 
+<audio controls>
+  <source src="/uploads/2019/06/tsm10.mp3" type="audio/mpeg">
+</audio>
+
 第十道羊皮卷
 
 [10:1]

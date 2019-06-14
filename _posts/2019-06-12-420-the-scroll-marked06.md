@@ -5,6 +5,10 @@ pid: 420
 tags: [羊皮卷]
 ---
 
+<audio controls>
+  <source src="/uploads/2019/06/tsm06.mp3" type="audio/mpeg">
+</audio>
+
 The Scroll Marked Six
 
 第六道羊皮卷

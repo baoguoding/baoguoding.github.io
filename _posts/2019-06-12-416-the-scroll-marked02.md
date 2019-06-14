@@ -5,6 +5,10 @@ pid: 416
 tags: [羊皮卷]
 ---
 
+<audio controls>
+  <source src="/uploads/2019/06/tsm02.mp3" type="audio/mpeg">
+</audio>
+
 The Scroll Marked Two
 
 第二道羊皮卷

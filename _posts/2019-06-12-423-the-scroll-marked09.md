@@ -5,6 +5,10 @@ pid: 423
 tags: [羊皮卷]
 ---
 
+<audio controls>
+  <source src="/uploads/2019/06/tsm09.mp3" type="audio/mpeg">
+</audio>
+
 The Scroll Marked IX
 
 第九道羊皮卷
