@@ -23,6 +23,13 @@ tags: [羊皮卷]
 # 录音
 
 + [羊皮卷之零：序言](/uploads/2019/06/tsm00.mp3)
+
+
+<audio controls>
+  <source src="/uploads/2019/06/tsm00.mp3" type="audio/mpeg">
+</audio>
+
+
 + [第一道羊皮卷](/uploads/2019/06/tsm01.mp3)
 + [第二道羊皮卷](/uploads/2019/06/tsm02.mp3)
 + [第三道羊皮卷](/uploads/2019/06/tsm03.mp3)
