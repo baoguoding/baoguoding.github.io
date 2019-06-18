@@ -65,7 +65,7 @@ I will live this day as if it is my last.
 
 I have but one life and life is naught but a measurement of time. When I waste one I destroy the other. If I waste today I destroy the last page of my life. Therefore, each hour of this day will I cherish for it can never return. It cannot be banked today to be withdrawn on the morrow, for who can trap the wind? Each minute of this day will I grasp with both hands and fondle with love for its value is beyond price. What dying man can purchase another breath though he willingly give all his gold? What price dare I place on the hours ahead? I will make them priceless!
 
-生命只有一次，而人生也不过是时间的累积。我若让今天的时光白白流逝，就等于毁掉入生最后一页。因此，我珍惜今天的一分一秒，因为它们将一去不复返。我无法把今天存入银行，明天再来取用。时间像风一样不可捕捉。每一分一秒，我要用双手捧住，用爱心抚慰，因为它们如此宝贵。垂死的人用毕生的钱财都无法换得一口生气。我无法计算时间的价值，它们是无价之宝；
+生命只有一次，而人生也不过是时间的累积。我若让今天的时光白白流逝，就等于毁掉人生最后一页。因此，我珍惜今天的一分一秒，因为它们将一去不复返。我无法把今天存入银行，明天再来取用。时间像风一样不可捕捉。每一分一秒，我要用双手捧住，用爱心抚慰，因为它们如此宝贵。垂死的人用毕生的钱财都无法换得一口生气。我无法计算时间的价值，它们是无价之宝；
 
 [5:10]
 
