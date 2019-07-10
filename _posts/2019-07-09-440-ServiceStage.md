@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在ServiceStage上一键式搭建开发环境
+title: 一键式搭建开发环境
 pid: 440
 tags: [servicestage, k8s, 微服务]
 ---
@@ -24,7 +24,7 @@ tags: [servicestage, k8s, 微服务]
     + 用户名/组织： baoguoding
 	+ 仓库名称： hellosz -- 代码仓库地址
   + 仓库组织： baoguo -- 镜像仓库地址
-  + 部署集群：cc3-demo464644 -- 实际部署的物理机或者虚拟机
+  + 部署集群：cc3-demoxxxxxx -- 实际部署的物理机或者虚拟机
   + 集群命名空间：default -- 默认，如果为了区分，可以放dev，uat等等
   + 高级配置
     + 设置访问方式
