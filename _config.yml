@@ -121,10 +121,10 @@ iLotus:
       url: /contact.html
       icon: fa fa-user
       class: none
-#    - text: 博客源代码
-#      url: https://github.com/baoguoding/baoguoding.github.io
-#      icon: fa fa-github-square
-#      class: none
+    - text: 博客源代码
+      url: https://github.com/baoguoding/baoguoding.github.io
+      icon: fa fa-github-square
+      class: none
 
 #站点基础配置
 title: 丁保国的博客
