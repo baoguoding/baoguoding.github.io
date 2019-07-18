@@ -92,5 +92,5 @@ http://122.112.159.12:12345/rest/helloworld?name=aaa
 # 注意
 
 + K8S集群华为新用户，可以免费用3天
-
++ [微服务上云实践](https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXV007+Self-paced/courseware/6e03d0b121bd441cb18966ffc326a92c/dbfb05beac1a4d06885258abe3bf13a5/)
 
