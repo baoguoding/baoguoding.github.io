@@ -23,25 +23,25 @@ Today I will multiply my value a hundredfold.
 
 A mulberry leaf touched with the genius of man becomes silk. 
 
-桑叶在天才的手中变成了丝绸。
+桑叶在天才的手中变成丝绸。
 
 [8:3]
 
 A field of clay touched with the genius of man becomes a castle. 
 
-粘土在天才的手中变成了堡垒。
+粘土在天才的手中变成堡垒。
 
 [8:4]
 
 A Cyprus tree touched with the genius of man becomes a shrine. 
 
-柏树在天才的手中变成了殿堂。
+柏树在天才的手中变成殿堂。
 
 [8:5]
 
 A cut of sheep's hair touched with the genius of man becomes raiment for a king. 
 
-羊毛在天才的手中变成了袈裟。
+羊毛在天才的手中变成袈裟。
 
 [8:6]
 
@@ -65,7 +65,7 @@ I am liken to a grain of wheat which faces one of three futures. The wheat can b
 
 I am liken to a grain of wheat with one difference. The wheat cannot choose whether it be fed to swine, ground for bread, or planted to multiply. I have a choice and I will not let my life be fed to swine nor will I let it be ground under the rocks of failure and despair to be broken open and devoured by the will of others. 
 
-我和一颗麦粒唯一不同在于，麦粒无法选择是变得腐烂还是做成面包，或是种植生长。而我有选择的自由，我不会让生命腐烂，也不会让它在失败，绝望的岩石下磨碎，任人摆布。
+我和一颗麦粒唯一不同的在于，麦粒无法选择是变得腐烂还是做成面包，或者种植生长。而我有选择的自由，我不会让生命腐烂，也不会让它在失败、绝望的岩石下磨碎，任人摆布。
 
 [8:10]
 
@@ -89,7 +89,7 @@ Today I will multiply my value a hundredfold.
 
 And how will I accomplish this? First I will set goals for the day, the week, the month, the year, and my life. Just as the rain must fall before the wheat will crack its shell and sprout, so must I have objectives before my life will crystallize. Insetting my goals I will consider my best performance of the past and multiply it a hundredfold. This will be the standard by which I will live in the future. Never will I be of concern that my goals are too high for is it not better to aim my spear at the moon and strike only an eagle than to arm my spear at the eagle and strike only a rock? 
 
-怎样才能做到呢？首先，我要为每一天、每个星期、每个月、每一年、甚至我的一生确立目标。正像种子需要雨水的滋润才能破土而出，发芽长叶，我的生命也须有目标方能结出硕果。在制定目标的时候，不妨参考过去最好的成绩，使其发扬光大。这必须成为我未来生活的目标。永远不要担心目标过高。取法乎上，得其中也，取法乎中，得其下也。
+怎样才能做到呢？首先，我要为每一天、每个星期、每个月、每一年、甚至我的一生确定目标。正像种子需要雨水的滋润才能破土而出，发芽长叶，我的生命也须有目标方能结出硕果。在制定目标的时候，不妨参考过去最好的成绩，使其发扬光大。这必须成为我未来生活的目标。永远不要担心目标过高。取法乎上，得其中也，取法乎中，得其下也。
 
 [8:14]
 
@@ -107,13 +107,13 @@ The height of my goals will not hold me in awe though I may stumble often before
 
 Today I will multiply my value a hundredfold. 
 
-今天我么加倍重视自己的价值。
+今天我要加倍重视自己的价值。
 
 [8:17]
 
 And just as the sun must warm the earth to bring forth the seedling of wheat so, too, will the words on these scrolls warm my life and turn my dreams into reality. Today I will surpass every action which I performed yesterday. I will climb today's mountain to the utmost of my ability yet tomorrow I will climb higher than today, and the next will be higher than tomorrow. To surpass the deeds of others is unimportant; to surpass my own deeds is all. 
 
-太阳温暖大地，麦粒吐穗儿结实。这些羊皮卷上的话也照耀我的生活，使梦想成真。今天我要超越昨日的成就。我要竭尽全力攀登今天的高峰，明天更上一层楼。超越别人并不重要，超越自己才是最重要的。
+太阳温暖大地，麦粒吐穗结实。这些羊皮卷上的话也会照耀我的生活，使梦想成真。今天我要超越昨日的成就。我要竭尽全力攀登今天的高峰，明天更上一层楼。超越别人并不重要，超越自己才是最重要的。
 
 [8:18]
 
@@ -125,7 +125,7 @@ Today I will multiply my value a hundredfold.
 
 And just as the warm wind guides the wheat to maturity, the same winds will carry my voice to those who will listen and my words will announce my goals. Once spoken I dare not recall them lest I lose face. I will be as my own prophet and though all may laugh at my utterances they will hear my plans, they will know my dreams; and thus there will be no escape for me until my words become accomplished deeds. 
 
-春风吹熟了麦穗，风声也将我的声音吹往那些愿意聆听者的耳畔。我要宣告我的目标。君子一言，驷马难追。我要成为自己的预言家。虽然大家可能嘲笑我的言辞但会倾听我的计划，了解我的梦想，因为我无处可逃，直到兑现了诺言。
+春风吹熟了麦穗，风声也将我的声音吹往那些愿意聆听者的耳畔。我要宣布自己的目标。君子一言，驷马难追。我要成为自己的预言家。虽然大家可能嘲笑我的言辞但会倾听我的计划，了解我的梦想，因此我无处可逃，直到兑现了诺言。
 
 [8:20]
 
@@ -197,4 +197,4 @@ One grain of wheat when multiplied a hundredfold will produce a hundred stalks. 
 
 And when it is done I will do it again, and again, and there will be astonishment and wonder at my greatness as the words of these scrolls are fulfilled in me.
 
-当我完成这件事，我再接再励。当羊皮卷上的话在我心中实现时，世上会惊叹我的伟大。
+当我完成这件事，我要再接再厉。当羊皮卷上的话在我心中实现时，世人会惊叹我的伟大。
