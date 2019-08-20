@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Config Server
+title: 微服务：Config Server
 pid: 458
 tags: [microservice, springcloud]
 ---

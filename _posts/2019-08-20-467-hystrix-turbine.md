@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hystrix Turbine集群监控
+title: 微服务：Hystrix Turbine集群监控
 pid: 467
 tags: [microservice, springcloud]
 ---

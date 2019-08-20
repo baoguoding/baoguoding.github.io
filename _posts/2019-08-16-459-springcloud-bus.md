@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Cloud Bus
+title: 微服务：Spring Cloud Bus
 pid: 459
 tags: [microservice, springcloud]
 ---
