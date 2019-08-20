@@ -2,7 +2,7 @@
 layout: post
 title: 微服务实践
 pid: 452
-tags: [micro-service]
+tags: [microservice]
 ---
 
 

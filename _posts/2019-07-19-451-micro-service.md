@@ -2,7 +2,7 @@
 layout: post
 title: 微服务
 pid: 451
-tags: [micro-service, springboot]
+tags: [microservice, springboot]
 ---
 
 # 微服务的范围
