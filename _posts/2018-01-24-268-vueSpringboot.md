@@ -2,7 +2,7 @@
 layout: post
 title: 前后端分离式项目CI实践
 pid: 268
-tags: [vueJs, SpringBoot]
+tags: [microservice]
 ---
 
 # Install & Configure JDK

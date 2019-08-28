@@ -2,7 +2,7 @@
 layout: post
 title: 在Centos7中安装Hadoop实战
 pid: 165
-tags: [centos, hadoop]
+tags: [centos]
 ---
 # 更新limits.conf 
     
