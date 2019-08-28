@@ -2,7 +2,7 @@
 layout: post
 title: U盘安装Centos7
 pid: 158
-tags: [ultraios, centos]
+tags: [centos]
 ---
 # Preparation
 

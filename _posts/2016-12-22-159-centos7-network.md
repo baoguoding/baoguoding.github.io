@@ -2,7 +2,7 @@
 layout: post
 title: Centos7中配置固定IP
 pid: 159
-tags: [linux, centos, network]
+tags: [centos]
 ---
 如需要重启后，自动打开网络连接，需要配置ONBOOT=yes。
 

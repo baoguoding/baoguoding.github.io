@@ -2,7 +2,7 @@
 layout: post
 title: Centos7启用iptables实战
 pid: 160
-tags: [linux, centos, network]
+tags: [centos]
 ---
 # 关闭firewall：
 
