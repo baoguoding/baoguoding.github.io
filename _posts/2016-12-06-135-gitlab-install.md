@@ -2,7 +2,7 @@
 layout: post
 title: GitLab安装实录
 pid: 135
-tags: [git, gitlab]
+tags: [git, 软件开发]
 ---
 # 安装GitLab(建议迅雷吧！)
 

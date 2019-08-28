@@ -2,7 +2,7 @@
 layout: post
 title: Gitlab Migrate
 pid: 253
-tags: [gitlab]
+tags: [gitlab, 软件开发]
 ---
 
 Gitlab服务器迁移

@@ -2,7 +2,7 @@
 layout: post
 title: Centos中安装Testlink
 pid: 145
-tags: [centos]
+tags: [centos, 软件开发]
 ---
 
 因为Testlink用到了PHP和MySql,但是在配置wecenter的时候，我已经安装了这2个，所以，这里我就不需要重复安装，具体步骤自己找，本文只是描述在CentOS 7上面安装testlink相关操作步骤。

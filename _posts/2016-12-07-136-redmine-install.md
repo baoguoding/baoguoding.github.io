@@ -2,7 +2,7 @@
 layout: post
 title: redmine安装及配置
 pid: 136
-tags: [redmine]
+tags: [redmine, 软件开发]
 ---
 # 设置淘宝镜像
 

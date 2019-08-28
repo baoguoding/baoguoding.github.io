@@ -2,7 +2,7 @@
 layout: post
 title: Redmine安装插件codereview
 pid: 140
-tags: [redmine]
+tags: [redmine, 软件开发]
 ---
 
 

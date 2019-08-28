@@ -2,7 +2,7 @@
 layout: post
 title: Redmine与Gitlab的简单集成
 pid: 139
-tags: [redmine, gitlab]
+tags: [redmine, gitlab, 软件开发]
 ---
 这个实验成功的前提是，我们的Redmine和gitlab是安装在同一台服务器上面。
 
