@@ -2,7 +2,7 @@
 layout: post
 title: Sublime 3 快捷键
 pid: 111
-tags: [Sublime, 快捷键]
+tags: [Sublime]
 ---
 
 因为我的Webstome crash了，没办法，暂时使用Sublime来编辑程序，以下为快捷键。

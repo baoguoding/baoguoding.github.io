@@ -2,7 +2,7 @@
 layout: post
 title: Openfire和Spark开发环境搭建
 pid: 153
-tags: [im, openfire, spark]
+tags: [im]
 ---
 # Openfire开发环境搭建
 
