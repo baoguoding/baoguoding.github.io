@@ -2,7 +2,7 @@
 layout: post
 title: Nodejs Websocket学习记录
 pid: 110
-tags: [Sublime]
+tags: [nodejs]
 ---
 
 这几天把老何的[Web Socket](http://study.163.com/course/courseMain.htm?courseId=1003413009)的学习，整体对Web Socket做了一个了解。
