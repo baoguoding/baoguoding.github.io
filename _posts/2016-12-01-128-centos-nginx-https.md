@@ -1,8 +1,8 @@
 ---
 layout: post
-title: centos下使用nginx搭建https服务器 
+title: nginx搭建https服务器 
 pid: 128
-tags: [centos, nginx, https]
+tags: [nginx]
 ---
 centos下安装nginx （注：如果nginx成功启动后还是不能访问查看一下防火墙策略）
 

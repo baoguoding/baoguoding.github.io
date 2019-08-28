@@ -2,7 +2,7 @@
 layout: post
 title: 职业规划的资料
 pid: 224
-tags: [职业规划]
+tags: [岗前培训]
 ---
 
 如何做好职业生涯规划
