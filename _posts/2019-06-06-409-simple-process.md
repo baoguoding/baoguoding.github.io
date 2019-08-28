@@ -2,7 +2,7 @@
 layout: post
 title: 快速产品交付流程
 pid: 409
-tags: [项目管理]
+tags: [岗前培训]
 ---
 
 快速产品交付流程

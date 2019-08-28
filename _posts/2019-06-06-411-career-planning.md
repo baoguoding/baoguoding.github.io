@@ -2,7 +2,7 @@
 layout: post
 title: 深挖BAT内部级别和薪资待遇，你敢看？
 pid: 411
-tags: [人力资源]
+tags: [岗前培训]
 ---
 
 一、 阿里内部级别和薪资待遇
