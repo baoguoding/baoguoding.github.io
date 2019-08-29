@@ -2,7 +2,7 @@
 layout: post
 title: 微服务：Hystrix Turbine集群监控
 pid: 467
-tags: [microservice]
+tags: [微服务]
 ---
 
 + 新建项目 hystrix-turbine

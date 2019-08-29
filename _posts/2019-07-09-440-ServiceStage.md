@@ -2,7 +2,7 @@
 layout: post
 title: 一键式搭建开发环境
 pid: 440
-tags: [servicestage, k8s, microservice]
+tags: [servicestage, k8s, 微服务]
 ---
 
 有幸参加《华为云开发者沙龙》，接触到ServiceStage相关的内容，现将相关内容整理如下：

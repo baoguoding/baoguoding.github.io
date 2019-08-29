@@ -2,7 +2,7 @@
 layout: post
 title: 微服务：Spring Cloud Bus
 pid: 459
-tags: [microservice]
+tags: [微服务]
 ---
 
 + 给项目configclient增加依赖
