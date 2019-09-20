@@ -5,6 +5,41 @@ pid: 481
 tags: [软件工程及软件方法学]
 ---
 
+An excellent software product results from a well-executed design based on excellent requirements. Excellent requirements result from effective collaboration between developers and customers (in particular, actual users)—a partnership. A collaborative effort can work only when all parties involved know what they need to be successful and when they understand and respect what their collaborators need to be successful. As project pressures rise, it’s easy to forget that all stakeholders share a common objective: to build a product that provides adequate business value and rewards to all stakeholders. The business analyst typically is the point person who has to forge this collaborative partnership.
+
+---
+**TABLE 2-1** Requirements Bill of Rights for Software Customers
+
+**You have the right to**
+
+1. Expect BAs to speak your language.
+2. Expect BAs to learn about your business and your objectives.
+3. Expect BAs to record requirements in an appropriate form.
+4. Receive explanations of requirements practices and deliverables.
+5. Change your requirements.
+6. Expect an environment of mutual respect.
+7. Hear ideas and alternatives for your requirements and for their solution.
+8. Describe characteristics that will make the product easy to use.
+9. Hear about ways to adjust requirements to accelerate development through reuse.
+10. Receive a system that meets your functional needs and quality expectations.
+
+---
+**TABLE 2-2** Requirements Bill of Responsibilities for Software Customers
+
+**You have the responsibility to**
+
+1. Educate BAs and developers about your business.
+2. Dedicate the time that it takes to provide and clarify requirements.
+3. Be specific and precise when providing input about requirements.
+4. Make timely decisions about requirements when asked.
+5. Respect a developer’s assessment of the cost and feasibility of requirements.
+6. Set realistic requirement priorities in collaboration with developers.
+7. Review requirements and evaluate prototypes.
+8. Establish acceptance criteria.
+9. Promptly communicate changes to the requirements.
+10. Respect the requirements development process.
+
+
 # 客户与开发人员的合作伙伴关系
 
 要想开发出优秀的软件产品，必须以优质需求为基础精心制定计划。而高质量的需求则源自开发人员和客户之间良好的沟通与合作，即所谓的合作伙伴关系。然而很多时候开发人员与客户之间却是一种对立的关系。项目经理如果只考虑自己的进度而不考虑用户提出的需求，就会造成矛盾。这样的局面对谁都没有好处。
@@ -13,35 +48,37 @@ tags: [软件工程及软件方法学]
 
 软件客户的权利法案(见表2.1)列出了10项权利。在项目需求工程的实施过程中，客户可以理直气壮地向需求分析员和开发人员提出这些要求。客户每拥有一项权利都意味着软件开发人员和需求分析员承担一项对应的义务。 软件客户的义务法案(见表2.2)则列出了需求过程中客户对需求分析员和开发人员承担的10项义务。也许有人更愿意将其视为开发人员的权利法案。
 
-表2.1 软件客户的权利法案
+---
+**表2.1** 软件客户的权利法案
 
-客户有权利
+**客户有权利**
 
-+ 1. 要求需求分析员使用客户的语吉
-+ 2. 要求需求分析员熟悉客户的业务，了解客户对系统的目标
-+ 3. 要求需求分析员把需求收集过程中客户提供的信息组织成书面的软件需求规格说明
-+ 4. 要求需求分析员解释需求过程生成的所有工作结果
-+ 5. 要求需求分析员和开发人员尊重客户，始终以合作和专业的态度与客户进行互动
-+ 6. 要求需求分析员和开发人员为需求和产品实现提供思路和备用方案
-+ 7. 要求开发人员实现能让产品使用起来更容易、更有趣的特性
-+ 8. 调整需求，便于重用已有的软件组件
-+ 9. 在提出需求变更时，获得对变更的成本、影响及二者权衡关系的真实评估
-+ 10. 获得满足功能和质量要求的系统，这些要求必须事先告知开发人员并征得其同意
+1. 要求需求分析员使用客户的语吉
+2. 要求需求分析员熟悉客户的业务，了解客户对系统的目标
+3. 要求需求分析员把需求收集过程中客户提供的信息组织成书面的软件需求规格说明
+4. 要求需求分析员解释需求过程生成的所有工作结果
+5. 要求需求分析员和开发人员尊重客户，始终以合作和专业的态度与客户进行互动
+6. 要求需求分析员和开发人员为需求和产品实现提供思路和备用方案
+7. 要求开发人员实现能让产品使用起来更容易、更有趣的特性
+8. 调整需求，便于重用已有的软件组件
+9. 在提出需求变更时，获得对变更的成本、影响及二者权衡关系的真实评估
+10. 获得满足功能和质量要求的系统，这些要求必须事先告知开发人员并征得其同意
 
-表2.2 软件客户的义务法案
+---
+**表2.2** 软件客户的义务法案
 
-软件客户有义务
+**软件客户有义务**
 
-+ 1. 为需求分析员和开发人员讲解业务并定义业务术语
-+ 2. 提供需求，阐明需求，通过与开发人员的交互将需求充实完善
-+ 3. 对系统需求的描述必须详细、准确
-+ 4. 需要时，及时对需求做出决断
-+ 5. 尊重开发人员对需求成本和可行性的评估
-+ 6. 与开发人员协作，为功能需求、系统特性和用例设置优先级
-+ 7. 审阅需求文档，评估原型
-+ 8. 发现需要变更需求时，及时与开发人员沟通
-+ 9. 按照开发组织的变更控制过程提出需求变更
-+ 10. 尊重需求分析员在需求工程中使用的过程
+1. 为需求分析员和开发人员讲解业务并定义业务术语
+2. 提供需求，阐明需求，通过与开发人员的交互将需求充实完善
+3. 对系统需求的描述必须详细、准确
+4. 需要时，及时对需求做出决断
+5. 尊重开发人员对需求成本和可行性的评估
+6. 与开发人员协作，为功能需求、系统特性和用例设置优先级
+7. 审阅需求文档，评估原型
+8. 发现需要变更需求时，及时与开发人员沟通
+9. 按照开发组织的变更控制过程提出需求变更
+10. 尊重需求分析员在需求工程中使用的过程
 
 作为项目计划的一部分，客户和所有参与开发的人员都应该仔细阅读这两张表，并达成致看法。忙碌的客户也许不愿意参与需求工程(这是对第二项责任的逃避)。但是我们知道，缺少用户的参与会使生成不符合需求的产品的风险大为增加。需求开发的每一位参与者都应该了解并承担自己的义务。如有疑感应该进行协商，使每个人都清楚各自应负的责任。这样能够减少以后因一方不愿意或不能提供对方所需而产生的矛盾。
 
@@ -163,38 +200,6 @@ tags: [软件工程及软件方法学]
 + 需求分析员也充满信心，因为他们可以有效地管理项目的变更，将变更引起的麻烦减至最小。
 
 用明确的协议来结束 前期的需求开发活动，能够帮助客户和开发人员形成合作伙伴关系，携手走上项目成功之路。
-
-
----
-## TABLE 2-1 Requirements Bill of Rights for Software Customers
-**You have the right to**
-
-1. Expect BAs to speak your language.
-2. Expect BAs to learn about your business and your objectives.
-3. Expect BAs to record requirements in an appropriate form.
-4. Receive explanations of requirements practices and deliverables.
-5. Change your requirements.
-6. Expect an environment of mutual respect.
-7. Hear ideas and alternatives for your requirements and for their solution.
-8. Describe characteristics that will make the product easy to use.
-9. Hear about ways to adjust requirements to accelerate development through reuse.
-10. Receive a system that meets your functional needs and quality expectations.
-
----
-## TABLE 2-2 Requirements Bill of Responsibilities for Software Customers
-
-**You have the responsibility to**
-
-1. Educate BAs and developers about your business.
-2. Dedicate the time that it takes to provide and clarify requirements.
-3. Be specific and precise when providing input about requirements.
-4. Make timely decisions about requirements when asked.
-5. Respect a developer’s assessment of the cost and feasibility of requirements.
-6. Set realistic requirement priorities in collaboration with developers.
-7. Review requirements and evaluate prototypes.
-8. Establish acceptance criteria.
-9. Promptly communicate changes to the requirements.
-10. Respect the requirements development process.
 
 
 # 参考
