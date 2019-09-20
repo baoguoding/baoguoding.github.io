@@ -1,8 +1,8 @@
 ---
-layout： post
-title： 客户与开发人员的合作伙伴关系
-pid： 481
-tags： [软件工程及软件方法学]
+layout: post
+title: 客户与开发人员的合作伙伴关系
+pid: 481
+tags: [软件工程及软件方法学]
 ---
 
 An excellent software product results from a well-executed design based on excellent requirements. Excellent requirements result from effective collaboration between developers and customers (in particular, actual users)—a partnership. A collaborative effort can work only when all parties involved know what they need to be successful and when they understand and respect what their collaborators need to be successful. As project pressures rise, it’s easy to forget that all stakeholders share a common objective： to build a product that provides adequate business value and rewards to all stakeholders. The business analyst typically is the point person who has to forge this collaborative partnership.
