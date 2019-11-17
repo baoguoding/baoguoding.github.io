@@ -23,7 +23,7 @@ My dreams are worthless, my plans are dust, my goals are impossible.
 
 All are of no value unless they are followed by action.
 
-一切的一切毫无意义，除非我们付诸行动。
+一切的一切毫无意义，除非我付诸行动。
 
 [9:3]
 
@@ -35,7 +35,7 @@ I will act now.
 
 Never has there been a map, however carefully executed to detail and scale, which carried its owner over even one inch of ground. Never has there been a parchment of law, however fair, which prevented one crime. Never has there been a scroll, even such as the one I hold, which earned so much as a penny or produced a single word of acclamation. Action, alone, is the tinder which ignites the map, the parchment, this scroll, my dreams, my plans, my goals, into a living force. Action is the food and drink which will nourish my success.
 
-一张地图，不论多么详尽，比例多精确，它永远不能带着它的主人在地面上移动半步。一个国家的法律，不论多么公正，永远不可能防止罪恶的发生。任何宝典，即使在我手中的羊皮卷，永远不可能创造财富。只有行动才能使地图、法律、宝典、梦想、计划、目标具有现实意义。行动，像食品和水一样，能滋润我，使我成功。
+一张地图，不论多么详尽，比例多精确，它永远不可能带着它的主人在地面上移动半步。一个国家的法律，无论多么公正，永远不可能防止罪恶的发生。任何宝典，即使在我手中的羊皮卷，永远不可能创造财富。只有行动才能使地图、法律、宝典、梦想、计划、目标具有现实意义。行动，像食品和水一样，能滋润我，使我成功。
 
 [9:5]
 
@@ -59,7 +59,7 @@ I will act now.
 
 Henceforth, I will remember the lesson of the firefly who gives of its light only when it is on the wing, only when it is in action. I will become a firefly and even in the day my glow will be seen in spite of the sun. Let others be as butterflies who preen their wings yet depend on the charity of a flower for life. I will be as the firefly and my light will brighten the world.
 
-从此我要记住萤火虫的启迪：只有振翅的时候，才能发出光芒。我要成为一只萤火虫，即使在艳阳高照的白天，我也要发出光芒。让别人像蝴蝶一样。舞动翅膀，靠花朵的施舍生活；我要做萤火虫，照亮大地。
+从此我要记住萤火虫的启迪：只有在振翅的时候，才能发出光芒。我要成为一只萤火虫，即使在艳阳高照的白天，我也要发出光芒。让别人像蝴蝶一样。舞动翅膀，靠花朵的施舍生活；我要做萤火虫，照亮大地。
 
 [9:9]
 
@@ -95,7 +95,7 @@ I will act now.
 
 I will repeat these words again and again and again.
 
-我一遍又一遍地重复这句话。
+我要一遍又一遍地重复这句话。
 
 [9:15]
 
