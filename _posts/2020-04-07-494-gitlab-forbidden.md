@@ -21,6 +21,13 @@ history
 
 ```
 
+进入Redis,删除被墙的IP
+
+```shell
+/opt/gitlab/embedded/bin/redis-cli -s /var/opt/gitlab/redis/redis.socket keys '*' | grep 'rack::attack' | xargs /opt/gitlab/embedded/bin/redis-cli -s /var/opt/gitlab/redis/redis.socket DEL
+```
+
+
 # 参考
 
 +[Gitlab访问出现 403 forbidden解决方案](https://my.oschina.net/u/3242075/blog/1824763)
