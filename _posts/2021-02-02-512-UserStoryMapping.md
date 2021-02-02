@@ -7,6 +7,10 @@ tags: [产品经理, 创业]
 ---
 
 
+```shell
+A1       A2    A3          (user activities = backbone)
+T1 T2 T3 T4 T5 T6 T7 T8 T9 (user tasks = skeleton & timeline)
+```
 
 
 ![](/uploads/2021/02/02-01.png)
@@ -48,6 +52,7 @@ tags: [产品经理, 创业]
 # 参考
 
 + [创建用户故事地图(User Story Mapping)的8个步骤](http://www.woshipm.com/pd/270289.html)
++ [How to create a User Story Map](http://winnipegagilist.blogspot.com/2012/03/how-to-create-user-story-map.html)
 + [如何绘制用户故事地图](https://zhuanlan.zhihu.com/p/51819306)
 + [如何做好用户故事地图？来看蚂蚁金服的实战案例！](https://www.uisdc.com/user-maps-design-ali-case)
 + [Design Thinking](https://www.ideou.com/pages/design-thinking)
