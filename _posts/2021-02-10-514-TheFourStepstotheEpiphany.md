@@ -11,23 +11,18 @@ tags: [产品经理, 创业]
 # 流程
 
 + [客户发展方法](https://www.processon.com/view/link/6032295d079129248a48def1)
-  + [客户探索流程](https://www.processon.com/view/link/603229996376896cd6e86909)
-  + [客户检验流程](https://www.processon.com/view/link/603229bce0b34d12441c07e5)
-  + [客户培养流程](https://www.processon.com/view/link/603229daf346fb2a7e1c0845)
-  + [组建公司流程](https://www.processon.com/view/link/603229f86376896cd6e86975)
++ [客户探索流程](https://www.processon.com/view/link/603229996376896cd6e86909)
++ [客户检验流程](https://www.processon.com/view/link/603229bce0b34d12441c07e5)
++ [客户培养流程](https://www.processon.com/view/link/603229daf346fb2a7e1c0845)
++ [组建公司流程](https://www.processon.com/view/link/603229f86376896cd6e86975)
   
     
-
 # 步骤
-
-
 
 + [客户探索步骤](https://www.processon.com/view/link/60322a1d5653bb4bcfcbd2bf)
 + [客户检验步骤](https://www.processon.com/view/link/60322a637d9c0872a676b172)
 + [客户培养步骤](https://www.processon.com/view/link/60322a70e401fd0290e419fd)
 + [组建公司步骤](https://www.processon.com/view/link/60322a7f079129248a48e0a3)
-
-
 
 # 备忘录
 
