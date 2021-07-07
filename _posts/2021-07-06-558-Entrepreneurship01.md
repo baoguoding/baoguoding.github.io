@@ -6,8 +6,6 @@ tags: [EMBA, 企业家精神]
 
 ---
 
-
-
 **内容来源**：2020年11月3日，交大安泰EMBA直播栏目“安泰视界”第16期《全球变局与创新突破》。
 
 **分享嘉宾**：孟宪忠，交大安泰EMBA《领导力反思》、《企业家精神》课程教授。
@@ -15,48 +13,27 @@ tags: [EMBA, 企业家精神]
 **注**：笔记侠作为合作方，经讲者和主办方审阅授权发布。
 
 
-
 大家好，我今天想跟大家分享的主题是“数字化时代的创新与企业家精神”。我会分为两个方面来分享：
-
- 
 
 第一方面，创新才有未来；
 
 第二方面，我们如何创新。
 
- 
-
 **一、创新才有未来**
-
- 
 
 **1.20世纪的经验无法引领你进入21世纪**
 
- 
-
 20世纪的经验不能引你进入21世纪，我们可以从两个产业来看一看。
-
-
 
 ① 汽车产业
 
- 
-
 说到20世纪的汽车产业，就不得不谈到奔驰。1886年，本茨先生发明了汽油机，然后就有了奔驰汽车，所以我们可以说奔驰汽车的历史就是汽车产业的历史。
-
- 
 
 我们再看宝马，它是20世纪最好的量产汽车的品牌。
 
- 
-
 我们再看福特，它发明了汽车的流水线，大大提高了汽车生产的效率，保证了汽车的质量，改变了整个汽车的生产方式。
 
- 
-
 我们再看一看美国的通用汽车，它是全世界最早一个达到年产1000万辆的汽车，因为它的市场营销做得非常好，说到市场营销就不得不提到通用汽车的领导者阿尔弗雷德·斯隆了。他做了四件事：
-
-
 
 > 第一，市场细分，他把车分出了档次；
 >
@@ -66,215 +43,109 @@ tags: [EMBA, 企业家精神]
 >
 > 第四，他做了二手车置换。
 
-
-
 所以整个20世纪汽车的销售方式，几乎斯隆都做了一个很好的尝试。
-
- 
 
 其实你回头一看，这就是整个汽车产业的发展史：**从产业产生到创造品牌，再到生产方式的改变和完整的市场营销。**
 
- 
-
 我们可以看到奔驰的历史、宝马的品牌、福特的流水线、通用的市场策略在当时都是不可一世，但到今天，所有这些汽车厂在一定意义上都陷入了挣扎，都面临着生死的抉择。
-
- 
 
 我们现在的汽车产业正在告别20世纪的汽车，正在改写20世纪的汽车，谁在改写呢？
 
- 
-
 从来没有制造过汽车的Google、特斯拉、AeroMobil、local Motors。我们都知道汽车的定义就是以燃油发动机为动力的交通工具，可是大家仔细看特斯拉，它再也不烧油了。
 
- 
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJTianJ5sjfEKBfiaKHBcAE1dktn5VOF9lRDCVqILzH5juLdIvS5kSywBw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
- 
+![](/uploads/2021/07/07-01.png)
 
 汽车原先是在道路上跑的，但有一大批飞行汽车公司让车飞上了蓝天。他们认为人类的交通方式经过了四个时代：运河时代（1800~1850）、铁路时代（1850~1900），公路时代（1900~2000），最后是空路时代（2000~2100）。
 
-
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJRsOF7icevUkliaXW3SQnHb8H6ek8gL61br20iadmAksmWaogyAic6NNKmQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
- 
+![](/uploads/2021/07/07-02.png)
 
 我们再看第四个汽车厂洛克汽车公司（LOCAL MOTORS），它的理念不是建造汽车，而是重塑汽车，所以它的汽车是3D打印出来的。
 
- 
-
 二十一世纪的这四个汽车厂和20世纪的四个汽车厂完全不同，汽车行业为什么要发生变革？因为各个国家都制定了燃油汽车退出市场的时间表。所以我们可以看一个问题，为什么过去的汽车没有办法走进21世纪？
-
- 
 
 **第一**，福特、通用、奔驰、宝马、奥迪、大众这些公司在20世纪都是最好的汽车公司之一，可是谁能想到这些汽车公司的股票市值加在一起，也没有一个2002年创立的特斯拉的股票市值高。
 
- 
-
 **第二**，自动驾驶领头羊Waymo，它的产品还没有下线，估值就高达2500亿美元。
-
- 
 
 所以我们必须要思考：21世纪，我们应该怎么样去创新？20世纪的经验没有办法引领你到21世纪，我们必须要有21世纪创新的做法，才能赢得21世纪。
 
- 
-
 ② 文化产业
-
- 
 
 迪士尼现任CEO罗伯特·艾格最大的成就就是带领迪士尼从20世纪传统的文化模拟产业，过渡到了21世纪的信息化的文化模拟产业。
 
- 
-
 我们都知道，在20世纪末年，迪士尼面临一个破产的危机，为什么？
-
- 
 
 1928年，迪士尼成立，华特·迪士尼画了米老鼠、唐老鸭；1955年，迪士尼在洛杉矶创建了主题公园。
 
- 
-
 这是当时最好的文化产业，但是我们不要忘记，这都是一个模拟性的文化产业。所以面对迪士尼的困境，艾格讲了一句话“我们必须改造迪士尼的基因，要让米老鼠接过星光剑，要让白雪公主走出天鹅城堡，翱翔在浩瀚的宇宙”。
-
- 
 
 艾格是怎么带领迪士尼转型的呢？
 
- 
-
 **首先**，艾格看到了乔布斯的皮克斯公司、艾伦的漫威公司、卢卡斯的影业、20世纪福布斯公司，看到他们拥有着现代的信息化的制作技术。
-
-
 
 所以艾格以他自己的真诚感动了这些经营者，乔布斯把皮克斯给了迪士尼，迪士尼就拥有了皮克斯的动画制作技术和皮克斯的大量IP。
 
- 
-
 **其次，**他扩展了整个迪士尼的想象力，迪士尼原来大多数都是自有IP，从米老鼠到唐老鸭，从小熊维尼跳跳虎，大多数都是小动物。可是你今天让90后沉醉在这些小动物里，绝对是不可能的。
-
-
 
 他们要看的是宇宙之间的打群架，所以才有复联3、复联4了。所以，迪士尼也开启了“买买买”模式，将外部优秀的IP纳入自己的手中。
 
- 
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJC36da1mktrkTMxVo2YZ2nicI9ED988SekJ2V9icFLGvuj6zucp9hXXGg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![](/uploads/2021/07/07-03.png)
 
 所以我们会看艾格带领迪士尼进行了21世纪转型，使得整个迪士尼从模拟的文化产业过渡到了信息化的文化产业。
 
- 
-
 迪士尼经过转型后，迪士尼的股票市值从400亿美元涨到了今天的2257亿美元。
-
- 
 
 可是请大家看一看1997年创建的奈飞，股票市值达到了2317亿美元，超过了1928年成立的迪士尼。因为奈飞不仅仅是数字化运行的流媒体，还创造了许多内容，比如大家耳熟能详的纸牌屋。
 
- 
-
 所以我们看到文化产业，不论是从创造的想象力，还是创造的技术手段，没有一天可以停滞不前。
 
- 
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJPeeP2Siavs1ahlNJmt6GMENK42vmj9zDayKgFibrt1Dwo7FRd8UWf94g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![](/uploads/2021/07/07-04.png)
 
 看完这些，我们或许有这样一个启发：**20世纪的经验不能引领你到21世纪，明天的方向比今天的地位更重要。**
 
- 
-
 所以我们非常欣赏Web2.0概念提出者蒂姆·奥莱利说的一句话，“**要理解未来，就需要我们摒弃关于现在的思维模式，放弃那些看起来顺理成章甚至习以为常的思想观念**”。
-
- 
 
 我们永远应该记住彼得·德鲁克的告诫，“**创造未来的第一原则就是告别昨天**”。
 
- 
-
 **2.21世纪最重要的创新，是颠覆式创新**
-
- 
 
 ① 颠覆你的，从来不是同行
 
- 
-
 什么是颠覆性创新？
-
- 
 
 假如让你思考一下，你是中国民营航空公司的老总，需要你来制定民用航空公司未来发展的规划，按照我们20世纪学的管理学的理论、战略，毫无疑问，肯定是标杆管理，我们对标当下航空业中做的最好的公司，然后学习它的经验，想办法超过它或赶上它。
 
- 
-
 在制定这样一个规划的时候，许多人都跟我这样提，“我争取在2030~2050年，让我的飞机制造水平接近波音和空客”，这就是我们延续性的思维方式，这就是我们用过去的经验来制定未来的战略，这不是颠覆性创新，可是实践永远走在了我们陈旧理念的前面。
-
- 
 
 下面，我们来看看今天的颠覆性创新。
 
- 
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJ0kyYLaZBdUcOYT0oguoyHnmWygibBbKy6OhdNVpRMfUaDiafic6PFuicHA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
- 
+![](/uploads/2021/07/07-05.png)
 
 今年，马斯克实现了用飞船搭载两位宇航员在太空站对接、返回。马斯克的理想是在2029年实现火箭载人运送旅客，通过这种飞行方式，从纽约到上海只用39分钟。
 
-
-
 所以这就出现一个问题，远距离飞停，你就是把飞机做得再好，从纽约到上海十几个小时，10年之后人们会不会坐呢？
-
- 
 
 除此之外，并不是马斯克一个在做这件事，亚马逊CEO贝佐斯、英国维珍公司的董事长布兰森也在做，所以他们都说“我们要使火箭不入轨飞行，实现一种洲际运输飞行”。
 
- 
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJ4awFibuyZzlSsHKX6FU7A3qL1OyicbMnVqdwD7VuoUSdLYHtuEL6Cp3g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![](/uploads/2021/07/07-06.png)
 
 大家看这张图，上边是我们的高速公路，高速公路走的是大巴士，下边是小轿车。大家都愿意自己开小车或者坐出租，不愿意做巴士，因为巴士不方便。
 
- 
-
 我们可不可以想一下，既然公路的公共巴士能变成小车，以后我们空中的巴士可不可以也变成小飞机这种私人出行方式？大家可能会说这是天方夜谭，其实并不是。
 
-
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJMKyyrd2a9kXgkA9R8WSaynJB3grdQN66ic6R5icNzNHx4d2skIiaNaxGA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
- 
+![](/uploads/2021/07/07-07.png)
 
 这就是CityAirbus的城市出租小飞机，外形酷似无人机，然后在城际之间飞行。CityAirbus团队认为空中交通是未来的一个重要的交通方式。
 
-  
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJeVszhf1MGU79Uib9Mbl0Gxc1kRNhDNIVfYrY233W3h6QMrPZibaHOUiaw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![](/uploads/2021/07/07-08.png)
 
 右图是到2030年我们国家八纵八横的高铁图，我们现在的高铁每小时300公里。
 
- 
-
 在1200公里之内，坐高铁三个小时就到了，而坐飞机最少也要一个小时，去机场将近两个小时，出机场将近两个小时，再加上飞机晚点，至少5~6个小时，远不如高铁方便。
-
- 
 
 而且，高铁马上要达到500公里/小时了，如果达到了，2000公里之内的航程，基本上我们都会选择坐高铁。
 
- 
-
 所以跟飞机竞争的绝对不仅仅是飞机，还有火箭、小飞机以及提速的高铁，这一切就告诉我们，我们不能用单纯的民用航空飞机思考民用航空，我们要思考远距离的火箭飞行，还要思考城际之间的小飞机飞行，以及思考高铁对民航的替代效应。
-
- 
 
 ② 数字化时代，一切都在颠覆
 
@@ -288,7 +159,7 @@ tags: [EMBA, 企业家精神]
 
  
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJJ1icAlAC8TGD0kqdyqxnicsk2owECCicf8BqrhYsFPgG6Q5m9L5nKiaYmw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-09.png)
 
  
 
@@ -296,7 +167,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJrW0HgnOU1vF733YTJ7ukh84rkibbaoglv9SOVic4TIf3qvrue2lvQmmg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-10.png)
 
 
 
@@ -312,7 +183,7 @@ tags: [EMBA, 企业家精神]
 
  
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJOqckQRoSEic7YQ506iaA1fNaRJYsdEGMQIjPjriaqJqmqunZUVIO610jg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-11.png)
 
 
 
@@ -388,7 +259,7 @@ tags: [EMBA, 企业家精神]
 
  
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJanV3uDZ4ibB5ZLp60YDMeic8GQGLusWHgzld3ich1wUOMicWsouICa7WiaA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-12.png)
 
 
 
@@ -536,7 +407,7 @@ PC时代，比尔·盖茨的理念是“让每个家庭、每个办公室都有�
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJwtCD58XUdcLvmFZF4ics2eu8Kl51znUnqzia582Mml50iaYt1rxN94jHw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-13.png)
 
 
 
@@ -564,7 +435,7 @@ PC时代，比尔·盖茨的理念是“让每个家庭、每个办公室都有�
 
  
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJBflpoujibDEQ3NSgPGfhsXaYRxT50Jus6j1QaMJ7lTWHNlRFJF7nibNQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-14.png)
 
 
 
@@ -572,7 +443,7 @@ PC时代，比尔·盖茨的理念是“让每个家庭、每个办公室都有�
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJR9QtrMwd5oQhzUvmLts8721q0NoSC2h9Ut6EicOUv8pIKTzWiawPpDfg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-15.png)
 
  
 
@@ -604,7 +475,7 @@ PC时代，比尔·盖茨的理念是“让每个家庭、每个办公室都有�
 
  
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJciaXDWn9zib2ZPaGsnUBNTtkAicuS3Hic3CynX9b76VIEIECic72j4KhcaQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-16.png)
 
  
 
@@ -652,7 +523,7 @@ PC时代，比尔·盖茨的理念是“让每个家庭、每个办公室都有�
 
  
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJdE4eHIRiaJdrPfUAtcLibibJg7WP0ibpaX6pk6utMqJnoPFQooWGY5nbYA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-17.png)
 
  
 
@@ -660,7 +531,7 @@ PC时代，比尔·盖茨的理念是“让每个家庭、每个办公室都有�
 
  
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJOqbzr2G8UewmGEGMXOhdlk0n1UkGBNJVHucs1pO0ictsian1Kicojzz6g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-18.png)
 
  
 
@@ -700,7 +571,7 @@ PC时代，比尔·盖茨的理念是“让每个家庭、每个办公室都有�
 
  
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/ZYpa3icG6myiapO3YhERNcTs4giaywiaTVgJQmynhnbicib1BaTQDNJfWb2cwpqr9uM3zeSiaRd7BqEKuVIU9e2cPsdPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-19.png)
 
  
 

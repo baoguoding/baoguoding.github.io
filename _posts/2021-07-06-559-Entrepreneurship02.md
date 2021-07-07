@@ -8,41 +8,23 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgSWXB8onglEN6ywgPurcJ9ibXgtDKLH3nulKgec8Pw7tsycqGicSl6kmbS1PicKw1zc9GEsOkfn4XJxQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-33.png)
 
 写下这个题目，朋友问是否写错了，竞争力是企业的盈利能力和致胜能力，为何还要超越呢？
 
-
-
 凡是在历史上产生的理论往往都有其产生的历史条件，有其适应的时间和空间，在历史条件、时间和空间发生了巨大变化的背景下，再拘囿于这一理论无异于刻舟求剑、缘木求鱼。产生于20世纪的竞争力理论亦是如此。
 
-
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/Pb2Ln5X7zgQYFZTny9mwn3yUtUglQMPh9d45lS5iaq8t0Me7tMP9s25UuubBttxGbC78UMUOREGNsyGUg2aeBaw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![](/uploads/2021/07/07-20.png)
 
 核心竞争力理论诞生于20世纪90年代，对于促进企业发展曾经发挥了积极的作用。竞争力是一个相对概念，是在与其他企业的竞争中表现出来的。如果一个企业的产品、服务的价值更大、成本更低，自然受到更多客户的欢迎，市场占有率就会领先，企业也就会越发强大。这也就是人们通常所说的“客户是竞争力的裁判”。
 
-
-
 显而易见，那些20世纪拥有核心竞争力的企业都是一度的成功者。柯达的相机和胶片因其质量优良、功能多样且使用方便而独占鳌头；诺基亚、摩托罗拉、爱立信等手机以其功能实用和小巧方便位居手机前列；福特、通用、丰田、奔驰、宝马是20世纪量产燃油车的常年赢家……从一定意义上说，20世纪500强多是领先对手并具有核心竞争力的企业。
 
-
-
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgQYFZTny9mwn3yUtUglQMPhicL2DVUjZ4bog576bkdkiabLsyKibusjpjx60pdKg0mqMl88ibpFz8GiaVw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![](/uploads/2021/07/07-21.png)
 
 市场总是很残酷，时至今日，那些20世纪80年代的世界500强已有近70%被淘汰出局。为什么强大的核心竞争力不再管用了，为什么这些企业帝国大多成为昨日黄花？
 
-
-
-
-
 这是因为，20世纪的核心竞争力本质上是现有技术、产品、业务的竞争力，尽管现有技术、产品、业务也在发生变化，但大多是量变范围的变化、是改善型变化、是渐进式变化。
-
-
 
 如上世纪70年代柯达的机械相机，尽管自动化程度提高到不用再调焦距、设定快门时间了，人们甚至亲切的称呼其为“傻瓜”相机。宝丽来也实现了一次成相即出照片的功能。但这些变化更多是化学成像技术的完善，而不是对化学成像的革命。
 
@@ -60,13 +42,13 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgSWXB8onglEN6ywgPurcJ9ibicOdeHW23vzHicHn025dky7ViciaiaDr2kdorprqYQicib1qMniboaswARt4bA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-22.png)
 
 必须超越竞争力，因为在技术、经济大变革时代，一个企业即使在现有的技术、产品、业务范围内打败了现有对手，依然可能输给时代的新变化、技术发展的新趋势、客户多样性新需求。柯达不是因为机械相机竞争力不强而被淘汰，而是输给了数码技术；奔驰不是因为燃油车技术竞争力不足败给特斯拉，而是被新能源超越；诺基亚不是因为传统手机技术升级迟缓而被iPhone碾压，而是智能机取代了功能机；邮政逊于快递、信用卡被手机支付替代、短信被微信挤压……这些皆是因为新时代颠覆了曾经的技术、产品、业务，为客户创造了过去从来没有的价值。
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgQYFZTny9mwn3yUtUglQMPhariao75SklY59VPPde9iay5kCjScsHAyN8nuaNvCmwvtl3ib9QcPpR2RQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-23.png)
 
 
 
@@ -85,7 +67,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgQYFZTny9mwn3yUtUglQMPhSr2h2JPo2y9MogIicdenuLoiaGa48rIrTFqWAbRT6iaGcIjUzlyF3zia7Q/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-24.png)
 
 \- 企业的系统发展能力图谱 -
 
@@ -131,7 +113,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgQYFZTny9mwn3yUtUglQMPhFnPrfEaR2ThJxPdsONPu2wl6XSr9FfrcjwTnJUgzrRpic7qkQ5cC9Zg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-25.png)
 
 
 
@@ -151,7 +133,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgQYFZTny9mwn3yUtUglQMPhysWEheyMyBLBO13ibwOGZRxLDomT7MicvqyicxGuI5nqEQgkiaSn5pEFVg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-26.png)
 
 
 
@@ -171,7 +153,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgQYFZTny9mwn3yUtUglQMPhcXoLXClYSE28XD8lzK6rGrzFzS2GjIibiaPxibEBsnJHqUwgRxGv5gmew/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-28.png)
 
 
 
@@ -203,7 +185,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgQYFZTny9mwn3yUtUglQMPhfKu0emC7uLV25m629bibdLibyHOA1avhswpnOsQQt4csq4s8Bg79X41w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-29.png)
 
 
 
@@ -257,7 +239,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgSWXB8onglEN6ywgPurcJ9ibadh3jsG3cEv1JkJCGeBR07PZjOuIQxmh1fKFxydG0NS2ObGN4a4MHg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-30.png)
 
 爱因斯坦所言深刻：创新之难不在创新本身，而是先要摆脱旧有的束缚。
 
@@ -277,7 +259,7 @@ MBA课堂和高管培训往往都学习过如下理论和方法：竞争战略�
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgQYFZTny9mwn3yUtUglQMPhKYWnpQXEvfSapGPkcA5fdM6YXnKlsj6fvc3RAhzHt1we4hp1icGkdOQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-31.png)
 
 
 
@@ -311,17 +293,11 @@ MBA课堂和高管培训往往都学习过如下理论和方法：竞争战略�
 
 **必须要指出：我们不是以今日之是说昨日之非。****一切都是以时间、空间和条件为转移的**——在20世纪技术与经济变化相对缓慢时期，在市场需求尚未充分满足的时代，人们关注当下技术、产品、服务的提升无可厚非。即便在当下，对于仍有前途的业务也需要提升质量和效率，这些理论依然在给发挥着价值。
 
-
-
 梁任公有云，变者，天下之公理也。在技术、经济、社会巨大变革的今天，仅仅将目光聚焦在这些传统的管理理论上，而忽视新的问题、新的理论、新的方法就有害无益了。这就像我们绝不否认，在冷兵器时代武松的功夫独步天下，今天的武术也是精彩的竞技与表演项目。但如果在今天热兵器时代，不学习掌握新技术、新武器，还要以武术对抗枪炮，就难免陷入危境了。
-
-
 
 **超越竞争力，重塑走向未来的系统发展能力，还是从摆脱旧的束缚开始吧！**
 
-
-
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgQYFZTny9mwn3yUtUglQMPhJTIJZhARB86y3RJatTDlRpSNFZWlbDKy45Micj9jK2EBzpGibOIff1icQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-32.png)
 
 
 

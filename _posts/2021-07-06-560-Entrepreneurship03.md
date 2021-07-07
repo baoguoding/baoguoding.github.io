@@ -6,63 +6,33 @@ tags: [EMBA, 企业家精神]
 
 ---
 
-
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/Pb2Ln5X7zgRKy2oEUuWqiaPIibicy8uMj60OaicciaTaVoVQTnTDRT2yUupyaImZZZtqEHXsCaJb895jFt2yyNTiaT4Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![](/uploads/2021/07/07-34.png)
 
 人生短短几个秋。世间万象，沉浮沧桑，折射多少至理……
 
-
-
 十多年前的一天，曾是我EMBA学生的一地市局长给我打电话，说他过去的上级领导、现任某省高官期望他到其手下工作，问我那个省的经济状况、发展趋势，并问我去是否合适？我说你现在任职的城市较小，直接到一个经济发达、行政地位很高的省工作，怕经验不足、怕能力欠缺，未必能适应。我的看法，还不如将现在的工作从容做好、造福当地。”学生”局长说，自己经验不足、能力不够可以努力提升。我感觉到他心里很想去，又问：“去对自己有什么益处？”他说：他的这位上级还有“步”，还会高升，而且也很器重他，他去了应该会有更大发展。
-
-
 
 我是一个直性子的人，没有办法掩饰自己真实的想法，于是说：不要将升官有权看得太重了，你这是一种寻找靠山谋求官位、延揽权力的做法，从历史上看有许多的教训。我甚至动情地说：古往今来不论官居何位总有下来那一天，我们不能将自己的人生绑在别人的战车上。我们太依靠别人、太仰仗别人，容易不论是非，唯人是从，一荣俱荣、一损俱损。学生局长很谦和地说：老师的嘱咐我一定认真考虑。那次电话后，再没有电话。
 
-
-
 后来，受省高官重用，他在那也官升一级，甚至权力比实际职位还大。再后来，省高官贪污腐化被判重刑，我的学生也锒铛入狱……
-
-
 
 **我一直认为：所有的靠山都是火山，以权力为靠山更甚。**
 
-
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/Pb2Ln5X7zgRKy2oEUuWqiaPIibicy8uMj60f4r3wH63f0Il7jt0xZcJlWl8bS380z0wNUFjx0sN5Y0lAGbjfmWsyg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![](/uploads/2021/07/07-35.png)
 
 多年来，我接触的一位创业者开发的技术填补了一项空白，因此赢得了许多荣誉、获得了各级别奖励，还是政协委员，可以说风光无限，我也一直为他高兴。但后来媒体揭露他们企业的技术完全是虚假的，请人鉴定时做了“大量工作”，又有高额鉴定费，鉴定当然顺利通过了。填补空白，相关部门脸上有光，地方政府也睁一只眼闭一只眼，所以也没有谁深究技术参数与实际情况。
 
-
-
 曝光后，撤销了各种荣誉、政治身份、补回了国家的上千万科研经费。好在没有刑事处罚，我们还可以如常交往。我与他说，做企业要务实，不能投机取巧，不能走捷径。人生道路还长，只要汲取教训，还可从头做起。
-
-
 
 作为老师，我也深深追问，造假填补技术空白，不可能形成产品、自然也没有经济收益，为什么要造假呢？他说，这些年看到不少大学同学、研究生同学都做出些令人敬佩的成绩，自己只是混得过去，就想放个卫星，博些名声、让别人刮目相看，所以走了捷径。
 
-
-
 **我一直以为：所有的捷径都是弯路，做人做事皆如此。**
 
-
-
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/Pb2Ln5X7zgRKy2oEUuWqiaPIibicy8uMj60aVDX2lXqUCFTtsmHicp7r6z1JGdTqnM77hsRfU4qcw4aNk9CMJgJGnw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![](/uploads/2021/07/07-36.png)
 
 还有一位企业经营者，其企业业绩在当地长期领先，个人也很富有。我去过他们企业，看到产品创新、精益生产、降本增效、年度收益，都做得不错。按理说，经营很成功，业绩有保证，水到渠成的发展是非常好的事情了。
 
-
-
 可惜的是，他非要搞定一些领导，以更便宜的拿地、更便利的拿项目，以获得集聚更多的财富。他就像善于经营企业一样长袖善舞的经营起官员。从官员子女上学到家庭挑选保姆，从住房维修到置换汽车，从官员父母生日到儿孙成长，都悉数礼到、照顾周全。投桃报李之下，他也拿到了土地、获得了项目。
-
-
 
 怎奈东窗事发，官员被抓，也牵连到他。好在他也算精明，送礼金额不大，到头来被罚了一大笔款，没受牢狱之灾。我没有问及他为何非要润滑官员、搞定官员而拿项目。他的同学说他一心想积累更多财富，成为一地首富。
 
@@ -72,7 +42,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/Pb2Ln5X7zgRKy2oEUuWqiaPIibicy8uMj602UQ4W1EjtH0bIy3Vo5pwaousnx7iaNF6MdJA5vHwKuaIdPrFyS1w0mQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-37.png)
 
 
 
@@ -88,7 +58,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/Pb2Ln5X7zgRKy2oEUuWqiaPIibicy8uMj606ElhzbDzftZMdKFtr2e6klA5QFB5iaL4FFcaH3J3Sfibd3qBysrdOmYQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-38.png)
 
 *卡伦•霍尼*
 
@@ -102,7 +72,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/Pb2Ln5X7zgRKy2oEUuWqiaPIibicy8uMj60tyaXK3DMJVLPD2AxibUu27TpcmeslibGWlGZRfK7giaGb9GQYN7VUn7Gg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-39.png)
 
 
 
@@ -140,7 +110,7 @@ tags: [EMBA, 企业家精神]
 
 
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/Pb2Ln5X7zgRKy2oEUuWqiaPIibicy8uMj605P8iaUvTHh2icjfMvwiafNYA2tDnuBcMl1JVX87vV1n8Jq0xVgqItASCw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](/uploads/2021/07/07-40.png)
 
 
 
