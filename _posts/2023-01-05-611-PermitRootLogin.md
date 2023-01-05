@@ -30,7 +30,7 @@ vim /etc/ssh/sshd_config
 
 Port 22
 
-Port 8822
+Port 9982
 
 PermitRootLogin yes 改成 no
 
