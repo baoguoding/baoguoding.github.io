@@ -18,7 +18,7 @@ passwd zhangsan
 
 修改防火墙
 
-vim /etc/sysconfig/iptables
+vim /etc/sysconfig/iptables  记得把下面用到的端口添加进去
 
 service iptables restart
 
