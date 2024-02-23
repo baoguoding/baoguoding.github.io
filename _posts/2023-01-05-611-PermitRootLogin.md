@@ -2,7 +2,7 @@
 layout: post
 title: Centos 禁用外网直接访问
 pid: 611
-tags: [linux]
+tags: [linux, ssh, iptables, useradd]
 ---
 
 
